@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from './pages/layout/Layout';
 import Home from './pages/Home';
+import Laptop from './pages/products/Laptop';
 import './index.css';
 
 export default function App() 
@@ -12,6 +13,7 @@ export default function App()
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          <Route path="portatiles" element={<Laptop />} />
           {/* <Route path="blogs" element={<Blogs />} />
           <Route path="contact" element={<Contact />} />
           <Route path="*" element={<NoPage />} /> */}

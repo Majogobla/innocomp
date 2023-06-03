@@ -7,7 +7,7 @@ function Layout()
   return (
     <>
       <div className="w-full bg-[#fb5910]">
-        <div className="container mx-auto py-6">
+        <div className="container mx-auto p-6">
             <div className="flex flex-col md:flex-row gap-12 items-center  justify-between">
               <Link className="w-32" to='/'>
                   <img src={logo} alt="imgen logo" />
@@ -29,15 +29,15 @@ function Layout()
       <Outlet/>
 
       <footer className="w-full bg-[#fb5910]">
-      <div className="container mx-auto">
-            <div className="flex flex-col md:flex-row gap-12 items-center  justify-between py-4">
-              <Link className="w-28" to='/'>
-                  <img src={texto} alt="imgen logo" />
-              </Link>
+        <div className="container mx-auto px-6">
+          <div className="flex flex-col md:flex-row gap-4 items-center  justify-between py-4">
+            <Link className="w-28" to='/'>
+                <img src={texto} alt="imgen logo" />
+            </Link>
 
-              <div className="flex-1">
-                <p className='text-3xl font-extralight text-end text-white uppercase'>Todos los derechos reservados InnoCompo ©{new Date().getFullYear()}.</p>
-              </div>
+            <div className="flex-1">
+              <p className='text-2xl font-extralight text-center md:text-end text-white uppercase'>Todos los derechos reservados InnoCompo ©{new Date().getFullYear()}.</p>
+            </div>
           </div>
         </div>
       </footer>
