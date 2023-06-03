@@ -1,25 +1,26 @@
-import { Link, Outlet } from 'react-router-dom';
+import { Link, Outlet, useLocation } from 'react-router-dom';
 import logo from '../../img/logo.png';
 import texto from '../../img/texto.png';
-function Layout() 
+function Layout(props) 
 {
+  const location = useLocation();
 
   return (
     <>
       <div className="w-full bg-[#fb5910]">
         <div className="container mx-auto p-6">
             <div className="flex flex-col md:flex-row gap-12 items-center  justify-between">
-              <Link className="w-32" to='/'>
-                  <img src={logo} alt="imgen logo" />
+              <Link className="w-20" to='/'>
+                  <img src={logo} alt="imagen logo" />
               </Link>
 
               <div className="w-full">
-                <div className="flex flex-col md:flex-row md:justify-between">
-                    <Link to="/computadoras" className="text-3xl font-extralight text-center text-white uppercase px-10 py-5 hover:bg-[#AD3A05] rounded-lg transition-colors">Computadoras</Link>
+                <div className="flex flex-col md:flex-row justify-center md:justify-end gap-2">
+                    <Link to="/computadoras" className={`${location.pathname === '/computadoras' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Computadoras</Link>
 
-                    <Link to="/portatiles" className="text-3xl font-extralight text-center text-white uppercase px-10 py-5 hover:bg-[#AD3A05] rounded-lg transition-colors">Portátiles</Link>
+                    <Link to="/portatiles" className={`${location.pathname === '/portatiles' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Portátiles</Link>
 
-                    <Link to="/consumibles" className="text-3xl font-extralight text-center text-white uppercase px-10 py-5 hover:bg-[#AD3A05] rounded-lg transition-colors">Consumibles</Link>
+                    <Link to="/consumibles" className={`${location.pathname === '/consumibles' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Consumibles</Link>
                 </div>
               </div>
           </div>

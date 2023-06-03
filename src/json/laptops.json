@@ -1,7 +1,7 @@
 [
   {
     "name": "Lenovo ThinkBook - Notebook - 15.6",
-    "sku": 1131,
+    "price": 1131,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -13,7 +13,7 @@
   },
   {
     "name": "Lenovo ThinkBook - Notebook - 15.6",
-    "sku": 1031,
+    "price": 1031,
     "description": "Intel Core i5 I5-1135G7-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -25,7 +25,7 @@
   },
   {
     "name": "Lenovo ThinkBook 14 - Notebook - 14",
-    "sku": 867,
+    "price": 867,
     "description": "Intel Core i5 I5-1135G7-8 GB-256 GB SSD-Windows 11 Pro-Spanish",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -37,7 +37,7 @@
   },
   {
     "name": "HP 14-fq1004la - Notebook - 14",
-    "sku": 584,
+    "price": 584,
     "description": "AMD Ryzen 3 5300U-8 GB-512 GB SSD-UMA-Windows 11 Home-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -49,7 +49,7 @@
   },
   {
     "name": "HP ProBook 440 G8 - Notebook - 14",
-    "sku": 1234,
+    "price": 1234,
     "description": "Intel Core i7 I7-1165G7-16 GB-1 TB SSD-Windows 10 Pro-1-year warranty-563P6LS",
     "category": "Computadores",
     "brand": "HP",
@@ -61,8 +61,8 @@
   },
   {
     "name": "HP ProBook 440 G8 - Notebook - Intel Core i5 1135G7",
-    "sku": 792,
-    "description": "512 GB SSD-1-year warranty",
+    "price": 792,
+    "description": "Intel Core i5 1135G7-512 GB SSD-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
     "pn": "637N4LT#ABM",
@@ -73,7 +73,7 @@
   },
   {
     "name": "HP Pavilion 15-ef2502la - Notebook - 15.6\" OLED",
-    "sku": 649,
+    "price": 649,
     "description": "AMD Ryzen 3 5300U-8 GB DDR4 SDRAM-256 GB SSD-Windows 11 Home-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -85,7 +85,7 @@
   },
   {
     "name": "Acer A3 - Notebook - 15",
-    "sku": 611,
+    "price": 611,
     "description": "AMD Ryzen 5 3500U-256 GB SSD-Windows 11 Home-Silver-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Acer",
@@ -97,7 +97,7 @@
   },
   {
     "name": "Acer A3 - Notebook - 15",
-    "sku": 596,
+    "price": 596,
     "description": "Intel Core i5 I5-1135G7-256 GB SSD-Windows 11 Home-Silver-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Acer",
@@ -109,7 +109,7 @@
   },
   {
     "name": "Lenovo - Notebook - 14",
-    "sku": 1729,
+    "price": 1729,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty-DG W10 Pro",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -121,7 +121,7 @@
   },
   {
     "name": "Lenovo Legion 5 Pro 16ACH - Notebook - 16",
-    "sku": 1665,
+    "price": 1665,
     "description": "AMD Ryzen 5 5600H-512 GB SSD-NVIDIA GeForce RTX 3060-Windows 11 Home-Gray-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -133,7 +133,7 @@
   },
   {
     "name": "HP 15-dw3500la - Notebook - 15.6",
-    "sku": 523,
+    "price": 523,
     "description": "Intel Core i3 1115G4-8 GB-256 GB SSD-Intel UHD Graphics-Microsoft Windows-Red-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -145,7 +145,7 @@
   },
   {
     "name": "Acer A3 - Notebook - 15",
-    "sku": 590,
+    "price": 590,
     "description": "Intel Core i5 I5-1135G7-512 GB SSD-Windows 11 Home-Silver-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Acer",
@@ -157,7 +157,7 @@
   },
   {
     "name": "Lenovo ThinkBook - Notebook - 14",
-    "sku": 1016,
+    "price": 1016,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty-DG W10Pro",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -169,7 +169,7 @@
   },
   {
     "name": "Lenovo - Notebook - 13.3",
-    "sku": 1211,
+    "price": 1211,
     "description": "Intel Core i7 I7-1165G7-512 GB SSD-Windows 10 Pro-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -181,7 +181,7 @@
   },
   {
     "name": "HP 14-dq2509la - Notebook - 14",
-    "sku": 475,
+    "price": 475,
     "description": "Intel Core i3 I3-1115G4-4 GB-128 GB SSD-UMA-Windows 11 Home-Blue-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -193,7 +193,7 @@
   },
   {
     "name": "HP HP 15-ef2526la - Notebook - 15.6",
-    "sku": 997,
+    "price": 997,
     "description": "AMD Ryzen 7 5700U-512 GB SSD-AMD Radeon Integrated Graphics-Windows 11 Home-1-year warranty-+Stinger Headset",
     "category": "Computadores",
     "brand": "HP",
@@ -205,7 +205,7 @@
   },
   {
     "name": "HP Victus 15-fb0103la - Notebook - 15.6",
-    "sku": 1268,
+    "price": 1268,
     "description": "AMD Ryzen 5 5600H-512 GB SSD-NVIDIA GeForce RTX 3050-Windows 10 Home-1-year warranty-+MousePad+Mouse",
     "category": "Computadores",
     "brand": "HP",
@@ -217,7 +217,7 @@
   },
   {
     "name": "HP Victus 15-fb0100la - Notebook - 15.6",
-    "sku": 929,
+    "price": 929,
     "description": "AMD Ryzen 5 5600H-8 GB-256 GB SSD-GTX 1650 4GB-Microsoft Windows-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -229,7 +229,7 @@
   },
   {
     "name": "Dell Latitude 3420 - Notebook - 14",
-    "sku": 1008,
+    "price": 1008,
     "description": "Intel Core i5 I5-1135G7-256 GB SSD-Intel UHD Graphics-Windows 10 Pro-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Dell",
@@ -241,7 +241,7 @@
   },
   {
     "name": "Lenovo IP 5 15ALC - Notebook - 15.6",
-    "sku": 1023,
+    "price": 1023,
     "description": "AMD Ryzen 7 5700U-512 GB SSD-Intel UHD Graphics-Windows 11 Home-Blue-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -253,7 +253,7 @@
   },
   {
     "name": "HP 15-dy5008la - Notebook - 15.6",
-    "sku": 862,
+    "price": 862,
     "description": "Intel Core i7 i7-1255U-8 GB-256 GB SSD-Windows 11 Home-Silver-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -265,7 +265,7 @@
   },
   {
     "name": "Lenovo - Notebook - 15.6",
-    "sku": 1229,
+    "price": 1229,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty-DG W10P",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -277,7 +277,7 @@
   },
   {
     "name": "Lenovo ThinkPad E14 - Notebook - 14",
-    "sku": 1455,
+    "price": 1455,
     "description": "Intel Core i7 I7-1255U-512 GB SSD-Windows 11 Pro-Spanish-Downgrade W10",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -289,7 +289,7 @@
   },
   {
     "name": "HP ProBook 445 G9 - Notebook - 14",
-    "sku": 1040,
+    "price": 1040,
     "description": "AMD Ryzen 5 5625U-512 GB SSD-Windows 10 Pro",
     "category": "Computadores",
     "brand": "HP",
@@ -301,7 +301,7 @@
   },
   {
     "name": "Dell Latitude 3420 - Intel Core i7 1165G7 / 2.8 GHz - Win 10 Pro 64 bits (incluye Licencia de Win 11 Pro)",
-    "sku": 1287,
+    "price": 1287,
     "description": "Intel Iris Xe Graphics-8 GB RAM-256 GB SSD NVMe Class 35-14\" TN 1366 x 768 (HD)-Wi-Fi 6-negro-BTS-con 1 Year Hardware Service with Onsite",
     "category": "Computadores",
     "brand": "Dell",
@@ -313,7 +313,7 @@
   },
   {
     "name": "HP ProBook 440G9 - Notebook - 14",
-    "sku": 1189,
+    "price": 1189,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 10 Pro",
     "category": "Computadores",
     "brand": "HP",
@@ -325,7 +325,7 @@
   },
   {
     "name": "Lenovo - Notebook - 15.6",
-    "sku": 1448,
+    "price": 1448,
     "description": "Intel Core i7 Ci7-1255u-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty-DG W10 Pro",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -337,7 +337,7 @@
   },
   {
     "name": "HP ProBook 440 G9 - Notebook - 14",
-    "sku": 1394,
+    "price": 1394,
     "description": "Intel Core i7 1255U-512 GB SSD-Windows 11 Pro",
     "category": "Computadores",
     "brand": "HP",
@@ -349,7 +349,7 @@
   },
   {
     "name": "Dell Latitude 5530 - Intel Core i5 1235U / 1.3 GHz - Win 10 Pro 64 bits (incluye Licencia de Win 11 Pro)",
-    "sku": 1361,
+    "price": 1361,
     "description": "Intel Iris Xe Graphics-8 GB RAM-256 GB SSD NVMe Class 35-15.6\" 1920 x 1080 (Full HD)-802.11a/b/g/n/ac/ax (Wi-Fi 6E)-gris-BTS-con 3 años de Hardware Service with Onsite",
     "category": "Computadores",
     "brand": "Dell",
@@ -361,7 +361,7 @@
   },
   {
     "name": "Lenovo ThinkBook - Notebook - 15.6",
-    "sku": 1301,
+    "price": 1301,
     "description": "Intel Core i7 I7-1255U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -373,7 +373,7 @@
   },
   {
     "name": "HP 15-dy2503la - Notebook - 15.6",
-    "sku": 801,
+    "price": 801,
     "description": "Intel Core i5 1135G7-8 GB-512 GB SSD-Intel Iris Xe Graphics-Microsoft Windows-Silver-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -385,7 +385,7 @@
   },
   {
     "name": "Lenovo ThinkBook - Notebook - 14",
-    "sku": 1263,
+    "price": 1263,
     "description": "Intel Core i7 I7-1255U-512 GB SSD-Windows 11 Pro-Spanish-1-year warranty-DG W10Pro",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -397,7 +397,7 @@
   },
   {
     "name": "HP ProBook 450 G9 Notebook - Notebook - 15.6",
-    "sku": 1199,
+    "price": 1199,
     "description": "Intel Core i5 I5-1235U-512 GB SSD-Windows 11 Pro-1-year warranty",
     "category": "Computadores",
     "brand": "HP",
@@ -409,7 +409,7 @@
   },
   {
     "name": "HP ProBook 450 G9 - Notebook - 15.6",
-    "sku": 1371,
+    "price": 1371,
     "description": "Intel Core i7 1255U-512 GB SSD-Windows 11 Pro",
     "category": "Computadores",
     "brand": "HP",
@@ -421,7 +421,7 @@
   },
   {
     "name": "Dell Latitude 3520 - Intel Core i5 1135G7 / 2.4 GHz - Win 10 Pro 64 bits (incluye Licencia de Win 11 Pro)",
-    "sku": 1066,
+    "price": 1066,
     "description": "Intel Iris Xe Graphics-8 GB RAM-256 GB SSD NVMe Class 35-15.6\" 1920 x 1080 (Full HD)-Wi-Fi 6-negro-kbd: español-BTS-con 1 Year Hardware Service with Onsite",
     "category": "Computadores",
     "brand": "Dell",
@@ -433,7 +433,7 @@
   },
   {
     "name": "Lenovo Legion 5 Pro 16ACH6H 82JQ - Diseño de bisagra en 180 grados - AMD Ryzen 7 5800H / 3.2 GHz",
-    "sku": 2234,
+    "price": 2234,
     "description": "Win 11 Home-GF RTX 3070 -16 GB RAM-512 GB SSD NVMe-16\" IPS 2560 x 1600 (WQXGA) @ 165 Hz-Wi-Fi 6-negro (abajo) gris tormenta (parte superior)-kbd: español (Latinoamérica)",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -445,7 +445,7 @@
   },
   {
     "name": "HP 15-ef1508la - Notebook - 15.6",
-    "sku": 536,
+    "price": 536,
     "description": "AMD Ryzen 3 3250U-256 GB SSD-Windows 11 Home-Spanish",
     "category": "Computadores",
     "brand": "HP",
@@ -457,7 +457,7 @@
   },
   {
     "name": "Lenovo Legion 5 Pro 16ACH - Notebook - 16",
-    "sku": 1801,
+    "price": 1801,
     "description": "AMD Ryzen 5 5600H-512 GB SSD-NVIDIA GeForce RTX 3060-Windows 11 Home-Gray-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -469,7 +469,7 @@
   },
   {
     "name": "Lenovo IP 5 15ALC - Notebook - 15.6",
-    "sku": 1023,
+    "price": 1023,
     "description": "AMD Ryzen 7 5700U-512 GB SSD-Intel UHD Graphics-Windows 11 Home-Blue-1-year warranty",
     "category": "Computadores",
     "brand": "Lenovo",
@@ -481,7 +481,7 @@
   },
   {
     "name": "Lenovo ThinkPad E14 - Notebook - 14",
-    "sku": 1455,
+    "price": 1455,
     "description": "Intel Core i7 I7-1255U-512 GB SSD-Windows 11 Pro-Spanish-Downgrade W10",
     "category": "Computadores",
     "brand": "Lenovo",

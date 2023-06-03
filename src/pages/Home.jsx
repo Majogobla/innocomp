@@ -18,7 +18,7 @@ function Home()
             </div>
             
             <div className="px-6 py-4 flex-1">
-              <div className="font-extralight text-2xl mb-2 text-gray-500">Computadoras de ecritorio</div>
+              <div className="font-extralight text-2xl mb-2 text-gray-500">Computadoras de escritorio</div>
 
               <p className="text-gray-700 text-xl font-extralight">
                 Computadoras de escritorio para todos los propositos, Home Oficce, WorkStation, Gaming, lo mejor para tu necesidad.
@@ -44,7 +44,7 @@ function Home()
             </div>
             
             <div className="px-6 pt-4 pb-2 flex justify-end">
-              <Link className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-lg font-extralight text-white mb-2" to='/laptos'>Visitar</Link>
+              <Link className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-lg font-extralight text-white mb-2" to='/portatiles'>Visitar</Link>
             </div>
           </div>
 
