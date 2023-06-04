@@ -21,6 +21,8 @@ function Layout(props)
                     <Link to="/portatiles" className={`${location.pathname === '/portatiles' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Portátiles</Link>
 
                     <Link to="/consumibles" className={`${location.pathname === '/consumibles' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Consumibles</Link>
+
+                    <Link to="/keys" className={`${location.pathname === '/keys' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Games & Keys</Link>
                 </div>
               </div>
           </div>
