@@ -6,6 +6,7 @@ import Home from './pages/Home';
 import Laptops from './pages/products/Laptops';
 import Keys from './pages/products/Keys';
 import './index.css';
+import Test from './pages/products/Test';
 
 export default function App() 
 {
@@ -16,6 +17,7 @@ export default function App()
           <Route index element={<Home />} />
           <Route path="portatiles" element={<Laptops />} />
           <Route path="keys" element={<Keys />} />
+          <Route path="test" element={<Test />} />
           {/* <Route path="blogs" element={<Blogs />} />
           <Route path="contact" element={<Contact />} />
           <Route path="*" element={<NoPage />} /> */}

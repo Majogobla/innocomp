@@ -1,15 +1,6 @@
-import keysData from '../json/keys.json';
+import keysData from '../json/keys.json' assert { type: "json" };
 
-export const formatPrice = price =>
-{
-  return Number(price).toLocaleString('en-US', 
-  {
-    style: 'currency',
-    currency: 'USD',
-  });
-}
-
-export const keysIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '') =>
+const keysIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '') =>
 {
   let keysDataSorted = [];
 
@@ -35,3 +26,7 @@ const productIndexer = (products = [], quantity = 0, actualPage = 1) =>
   const result = {numberPages, sliceArray};
   return result;
 }
+
+const productos = keysIndexer(5, 20, false, 'name');
+
+console.log(productos);

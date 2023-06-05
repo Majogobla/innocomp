@@ -3,31 +3,31 @@ import { formatPrice } from "../../helpers";
 
 function Key({product}) 
 {
-  const [price, setPrice] = useState(product.precio);
-  const [name, setName] = useState(product.nombre);
+  const [price, setPrice] = useState(0);
   const [card, setCard] = useState('');
-  const [image, setImage] = useState(product.imagen1);
+
+  const { nombre, precio, imagen1 } = product;
 
   useEffect(() => 
   {
-    const newPrice = price < 2.5 ? 5 : price < 5 ? 10 : price < 8 ? 12 : price < 10 ? 15 : (price + 5);
-    setPrice(newPrice);
-
-    const card = name.toLowerCase().includes('card') || name.toLowerCase().includes('gift') || name.toLowerCase().includes('gold') || name.toLowerCase().includes('points') || name.toLowerCase().includes('pass') ? 'Desde' : '';
+    const card = nombre.toLowerCase().includes('card') || nombre.toLowerCase().includes('gift') || nombre.toLowerCase().includes('gold') || nombre.toLowerCase().includes('points') || nombre.toLowerCase().includes('pass') ? 'Desde' : '';
     setCard(card);
+
+    const newPrice = nombre.toLowerCase().includes('windows 10') || nombre.toLowerCase().includes('windows 11') ? 11.95 : nombre.toLowerCase().includes('office') ? 20 : nombre.toLowerCase().includes('eset') || nombre.toLowerCase().includes('mcafe') ? 15 : nombre.toLowerCase().includes('kaspersky') ? 25 : precio;
+    setPrice(newPrice);
   },
   []);
 
   return (
-    <div className="w-full overflow-hidden shadow-xl mt-5 bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
+    <div className="w-full overflow-hidden shadow-xl bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
       <div className=' h-60'>
-        <img className=" object-cover object-center h-full w-full" src={image} alt="Sunset in the mountains"/>
+        <img className=" object-cover object-top h-full w-full" src={imagen1} alt="Sunset in the mountains"/>
       </div>
 
       <div className='w-full px-4 py-3 flex flex-col flex-1 justify-between'>
-        <div className="font-extralight text-3xl mb-2 text-gray-500 text-center">{name}</div>
+        <div className="font-extralight text-3xl mb-2 text-gray-500 text-center">{nombre}</div>
 
-        <p className="w-full text-center bg-[#fb5910] rounded-lg text-2xl font-normal text-white py-1">{card} {formatPrice(price)}</p>
+        <p className="w-full text-center bg-[#fb5910] rounded-lg text-2xl font-normal text-white py-1">{card} {formatPrice(precio)}</p>
       </div>
     </div>
   )
