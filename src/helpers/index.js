@@ -31,7 +31,7 @@ export const keysIndexer = (quantity = 1, actualPage = 1, ascDesc = true, catego
 
 export const keysSearch = search =>
 {
-  let keysFiltered = [...keysData].filter(keyState => keyState.nombre.toLocaleLowerCase().includes(search));
+  let keysFiltered = [...keysData].filter(keyState => keyState.nombre.toLowerCase().includes(search));
 
   const result = {arrayPages: [], sliceArray: keysFiltered, numberPages: 1};
 
