@@ -41,7 +41,9 @@ function Keys()
   {
     if(search !== '')
     {
+      console.log(search);
       const keysFiltered = keysSearch(search);
+      console.log(keysFiltered);
       setKeys(keysFiltered.sliceArray);
       setPagesArray(keysFiltered.arrayPages);
       setTotalPages(keysFiltered.numberPages);
@@ -84,6 +86,8 @@ function Keys()
   const handelSearch = e =>
   {
     e.preventDefault();
+
+    // console.log(e.target[0].value.trim());
 
     if(e.target[0].value.trim().length > 3)
     {
