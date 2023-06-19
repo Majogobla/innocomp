@@ -35,7 +35,7 @@ function Laptop({producto})
   [])
 
   return (
-    <div className="w-full overflow-hidden shadow-xl mt-5 bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
+    <div className="w-full overflow-hidden shadow-xl bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
       <div className='aspect-square'>
         <img className="object-contain h-full w-full" src={image1} alt="Sunset in the mountains"/>
       </div>

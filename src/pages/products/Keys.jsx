@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
-import Key from "./Key";
 import { keysIndexer, keysSearch } from "../../helpers";
+import Key from "./Key";
 import Paginator from "../../components/Paginator";
 
 function Keys() 

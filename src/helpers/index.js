@@ -1,4 +1,5 @@
 import keysData from '../json/keys.json';
+import laptopsData from '../json/laptops.json';
 
 export const formatPrice = price =>
 {
@@ -34,6 +35,35 @@ export const keysSearch = search =>
   let keysFiltered = [...keysData].filter(keyState => keyState.nombre.toLowerCase().includes(search));
 
   const result = {arrayPages: [], sliceArray: keysFiltered, numberPages: 1};
+
+  return result;
+}
+
+export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100) =>
+{
+  let laptopsDataSorted = [];
+
+  if(category === 'price')
+  {
+    laptopsDataSorted = [...laptopsData].sort((a, b) => ascDesc ? a.price - b.price : b.price - a.price);
+  }
+  else
+  {
+    laptopsDataSorted = [...laptopsData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  laptopsDataSorted = [...laptopsDataSorted].filter(laptopState => laptopState.price >= minPrice & laptopState.price <= maxPrice);
+
+  const result = productIndexer(laptopsDataSorted, quantity, actualPage);
+
+  return result;
+}
+
+export const laptosSearch = search =>
+{
+  let laptopsFiltered = [...laptopsData].filter(laptopState => laptopState.name.toLowerCase().includes(search));
+
+  const result = {arrayPages: [], sliceArray: laptopsFiltered, numberPages: 1};
 
   return result;
 }
