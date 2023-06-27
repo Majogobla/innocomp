@@ -1,5 +1,6 @@
 import keysData from '../json/keys.json';
 import laptopsData from '../json/laptops.json';
+import officeData from '../json/office.json';
 
 export const formatPrice = price =>
 {
@@ -64,6 +65,35 @@ export const laptosSearch = search =>
   let laptopsFiltered = [...laptopsData].filter(laptopState => laptopState.name.toLowerCase().includes(search));
 
   const result = {arrayPages: [], sliceArray: laptopsFiltered, numberPages: 1};
+
+  return result;
+}
+
+export const officeIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100) =>
+{
+  let officeDataSorted = [];
+
+  if(category === 'price')
+  {
+    officeDataSorted = [...officeData].sort((a, b) => ascDesc ? a.price - b.price : b.price - a.price);
+  }
+  else
+  {
+    officeDataSorted = [...officeData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  officeDataSorted = [...officeDataSorted].filter(officeState => officeState.price >= minPrice & officeState.price <= maxPrice);
+
+  const result = productIndexer(officeDataSorted, quantity, actualPage);
+
+  return result;
+}
+
+export const officeSearch = search =>
+{
+  let officeFiltered = [...officeSearch].filter(officeState => officeState.name.toLowerCase().includes(search));
+
+  const result = {arrayPages: [], sliceArray: officeFiltered, numberPages: 1};
 
   return result;
 }

@@ -3,12 +3,12 @@ import ReactDOM from 'react-dom/client';
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Layout from './pages/layout/Layout';
 import Home from './pages/Home';
-import Laptops from './pages/products/Laptops';
-import Keys from './pages/products/Keys';
+import Laptops from './pages/laptops/Laptops';
+import Keys from './pages/keys/Keys';
+import Office from './pages/office/Office';
 import './index.css';
-import Test from './pages/products/Test';
 
-export default function App() 
+function App() 
 {
   return (
     <BrowserRouter>
@@ -17,10 +17,7 @@ export default function App()
           <Route index element={<Home />} />
           <Route path="portatiles" element={<Laptops />} />
           <Route path="keys" element={<Keys />} />
-          <Route path="test" element={<Test />} />
-          {/* <Route path="blogs" element={<Blogs />} />
-          <Route path="contact" element={<Contact />} />
-          <Route path="*" element={<NoPage />} /> */}
+          <Route path="office" element={<Office />} />
         </Route>
       </Routes>
     </BrowserRouter>
