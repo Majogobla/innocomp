@@ -1,5 +1,4 @@
 import { useEffect, useState } from 'react';
-import { Link } from 'react-router-dom';
 import { formatPrice } from '../../helpers';
 
 function Laptop({producto})
@@ -53,8 +52,8 @@ function Laptop({producto})
           <p className='text-[#fb5910] font-bold text-2xl'>SO:<span className='text-black font-extralight ml-2'>{windows}</span></p>
         </div>
         
-        <div className="px-6 pt-4 pb-2 flex justify-end">
-          <p className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-2xl font-normal text-white">{formatPrice(price)}</p>
+        <div className="pt-4 mb-2 flex">
+          <p className="w-full text-center bg-[#fb5910] rounded-xl px-10 py-1 text-2xl font-normal text-white">{formatPrice(price)}</p>
         </div>
       </div>
     </div>

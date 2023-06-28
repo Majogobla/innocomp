@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import { formatPrice } from "../../helpers";
 
 function OfficeCard({product}) 
