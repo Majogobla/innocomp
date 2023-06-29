@@ -1,5 +1,6 @@
 import keysData from '../json/keys.json';
 import laptopsData from '../json/laptops.json';
+import officeData from '../json/office.json';
 
 export const formatPrice = price =>
 {
@@ -39,7 +40,7 @@ export const keysSearch = search =>
   return result;
 }
 
-export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100) =>
+export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100, brandFilter = ['all']) =>
 {
   let laptopsDataSorted = [];
 
@@ -50,6 +51,11 @@ export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, cat
   else
   {
     laptopsDataSorted = [...laptopsData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  if(!brandFilter.includes('all'))
+  {
+    laptopsDataSorted = [...laptopsDataSorted].filter(laptopState => brandFilter.includes(laptopState.brand.toLowerCase()));
   }
 
   laptopsDataSorted = [...laptopsDataSorted].filter(laptopState => laptopState.price >= minPrice & laptopState.price <= maxPrice);
@@ -64,6 +70,50 @@ export const laptosSearch = search =>
   let laptopsFiltered = [...laptopsData].filter(laptopState => laptopState.name.toLowerCase().includes(search));
 
   const result = {arrayPages: [], sliceArray: laptopsFiltered, numberPages: 1};
+
+  return result;
+}
+
+export const officeIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100, brandFilter = ['all'], categoryFilter = ['all'], subcategoryFilter = ['all']) =>
+{
+  let officeDataSorted = [];
+
+  if(category === 'price')
+  {
+    officeDataSorted = [...officeData].sort((a, b) => ascDesc ? a.price - b.price : b.price - a.price);
+  }
+  else
+  {
+    officeDataSorted = [...officeData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  if(!brandFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => brandFilter.includes(officeState.brand.toLowerCase()));
+  }
+
+  if(!categoryFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => categoryFilter.includes(officeState.category.toLowerCase()));
+  }
+
+  if(!subcategoryFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => subcategoryFilter.includes(officeState.subcategory.toLowerCase()));
+  }
+
+  officeDataSorted = [...officeDataSorted].filter(officeState => officeState.price >= minPrice & officeState.price <= maxPrice);
+
+  const result = productIndexer(officeDataSorted, quantity, actualPage);
+
+  return result;
+}
+
+export const officeSearch = search =>
+{
+  let officeFiltered = [...officeSearch].filter(officeState => officeState.name.toLowerCase().includes(search));
+
+  const result = {arrayPages: [], sliceArray: officeFiltered, numberPages: 1};
 
   return result;
 }
