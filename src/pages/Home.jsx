@@ -30,7 +30,7 @@ function Home()
             </div>
           </div>
 
-          <div className="max-w-sm rounded overflow-hidden shadow-xl mt-5 bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
+          {/* <div className="max-w-sm rounded overflow-hidden shadow-xl mt-5 bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
             <div className='w-full h-56'>
               <img className="object-cover h-full w-full" src={consumables} alt="Sunset in the mountains"/>
             </div>
@@ -46,7 +46,7 @@ function Home()
             <div className="px-6 pt-4 pb-2 flex justify-end">
               <Link className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-lg font-extralight text-white mb-2" to='/office'>Visitar</Link>
             </div>
-          </div>
+          </div> */}
 
           <div className="max-w-sm rounded overflow-hidden shadow-xl mt-5 bg-white mx-auto origin-center hover:rotate-6 hover:z-auto transition-transform flex flex-col">
             <div className='w-full h-56'>
