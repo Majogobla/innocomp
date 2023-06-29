@@ -20,19 +20,20 @@ function Laptops()
   const [pagesArray, setPagesArray] = useState([]);
   const [minPrice, setMinPrice] = useState(0);
   const [maxPrice, setMaxPrice] = useState(max);
+  const [brandFilter, setBrandFilter] = useState(['all']);
   const [search, setSearch] = useState('');
 
   useEffect(() =>
   {
     if(search === '')
     {
-      const products = laptopsIndexer(productsNumber, actualPage, ascDesc, sort, minPrice, maxPrice);
+      const products = laptopsIndexer(productsNumber, actualPage, ascDesc, sort, minPrice, maxPrice, brandFilter);
       setLaptops(products.sliceArray);
       setPagesArray(products.arrayPages);
       setTotalPages(products.numberPages);
     }
   },
-  [ascDesc, sort, productsNumber, actualPage, minPrice, maxPrice, search]);
+  [ascDesc, sort, productsNumber, actualPage, minPrice, maxPrice, search, brandFilter]);
 
   useEffect(() =>
   {
@@ -118,7 +119,7 @@ function Laptops()
 
                   <MinMaxPriceFilter data={{minPrice, handleSetMinPrice, maxPrice, handleSetMaxPrice, max}}/>
 
-                  <CheckFilter data={{list: ['hp', 'dell', 'acer', 'lenovo', 'apple']}}/>
+                  <CheckFilter data={{list: ['hp', 'dell', 'acer', 'lenovo', 'apple'], brandFilter, setBrandFilter}}/>
                 </div>
               </div>
 

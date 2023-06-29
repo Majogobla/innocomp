@@ -40,7 +40,7 @@ export const keysSearch = search =>
   return result;
 }
 
-export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100) =>
+export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100, brandFilter = ['all']) =>
 {
   let laptopsDataSorted = [];
 
@@ -51,6 +51,11 @@ export const laptopsIndexer = (quantity = 1, actualPage = 1, ascDesc = true, cat
   else
   {
     laptopsDataSorted = [...laptopsData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  if(!brandFilter.includes('all'))
+  {
+    laptopsDataSorted = [...laptopsDataSorted].filter(laptopState => brandFilter.includes(laptopState.brand.toLowerCase()));
   }
 
   laptopsDataSorted = [...laptopsDataSorted].filter(laptopState => laptopState.price >= minPrice & laptopState.price <= maxPrice);

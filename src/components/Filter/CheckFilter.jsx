@@ -1,56 +1,42 @@
-import { useState } from "react";
+import { Dropdown } from 'flowbite-react';
 
-function CheckFilter({data: {list}}) 
+function CheckFilter({data: {list, brandFilter, setBrandFilter}}) 
 {
-  const [options, setOptions] = useState(['all']);
-
   const handleSetOption = e =>
   {
     if(e.target.checked)
     {
-      const newOptions = [...options];
+      const newOptions = [...brandFilter];
       newOptions.push(e.target.value);
-      setOptions(newOptions);
+      setBrandFilter(newOptions);
     }
     else
     {
-      setOptions([...options].filter(option => option !== e.target.value));
+      setBrandFilter([...brandFilter].filter(brand => brand !== e.target.value));
     }
   }
 
   return (
     <>
-      <button id="dropdownCheckboxButton" data-dropdown-toggle="dropdownDefaultCheckbox" className="mt-6 w-full flex justify-between items-center text-white bg-[#fb5910] text-2xl font-extralight rounded-lg px-4 py-2 " type="button">
-        Marca {' '}
+      <div className="mt-6 w-full text-2xl font-extralight">
+        <Dropdown label="Marca " inline>
+          <div className="w-full flex gap-4 items-center px-4">
+            <input type="checkbox" className="w-4 h-4 text-[#fb5910] bg-gray-100 border-gray-300 rounded" onChange={handleSetOption} value="all" defaultChecked={true} id="all"/>
 
-        <svg className="w-4 h-4 ml-2" aria-hidden="true" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
-          <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M19 9l-7 7-7-7"></path>
-        </svg>
-      </button>
-
-      <div id="dropdownDefaultCheckbox" className="z-10 hidden w-full bg-white divide-y divide-[#fb5910] rounded-lg shadow border-2 border-[#fb5910]">
-        <ul className="p-3 space-y-3 text-2xl font-extralight flex flex-col" aria-labelledby="dropdownCheckboxButton">
-          <li>
-            <div className="w-full flex gap-2 items-center">
-              <input type="checkbox" className="w-4 h-4 text-[#fb5910] bg-gray-100 border-gray-300 rounded" onChange={handleSetOption} value="all" defaultChecked={true}/>
-
-              <label htmlFor="checkbox-item-1" className="ml-2 text-2xl font-extralight">Todas</label>
-            </div>
-          </li>
-
+            <label htmlFor="all" className="text-2xl font-extralight cursor-pointer flex-grow">All</label>
+          </div>
+          
           {
-            list.map(item =>
+            list.map(brand =>
             (
-              <li key={item}>
-                <div className="w-full flex gap-2 items-center">
-                  <input type="checkbox" className="w-4 h-4 text-[#fb5910] bg-gray-100 border-gray-300 rounded" onChange={handleSetOption} value={item}/>
-
-                  <label htmlFor="checkbox-item-1" className="ml-2 text-2xl font-extralight">{item}</label>
-                </div>
-              </li>
+              <div key={brand} className="w-full flex gap-4 items-center px-4">
+                <input type="checkbox" className="w-4 h-4 text-[#fb5910] bg-gray-100 border-gray-300 rounded" onChange={handleSetOption} value={brand} id={brand}/>
+    
+                <label htmlFor={brand} className="text-2xl font-extralight cursor-pointer flex-grow">{brand}</label>
+              </div>
             ))
           }
-        </ul>
+        </Dropdown>
       </div>
     </>
   )
