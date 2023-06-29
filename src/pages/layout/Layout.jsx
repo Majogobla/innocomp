@@ -18,7 +18,7 @@ function Layout()
               <div className="flex flex-col md:flex-row justify-center md:justify-end gap-2">
                 {/* <Link to="/computadoras" className={`${location.pathname === '/computadoras' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Computadoras</Link> */}
 
-                <Link to="/portatiles" className={`${location.pathname === '/portatiles' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Portátiles</Link>
+                <Link to="/tecnologia" className={`${location.pathname === '/tecnologia' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Tecnología</Link>
 
                 <Link to="/office" className={`${location.pathname === '/office' ? 'bg-[#AD3A05]' : 'hover:bg-[#AD3A05]'} text-2xl font-extralight text-center text-white uppercase px-10 py-5 rounded-lg transition-colors`}>Office</Link>
 
