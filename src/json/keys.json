@@ -1,1602 +1,1922 @@
 [
   {
-    "nombre": "Google Play Gift Cards",
-    "precio": 5,
-    "imagen1": "https://m.media-amazon.com/images/I/61OdJeN2lFL.jpg"
+      "nombre": "Google Play Gift Cards",
+      "precio": 5,
+      "imagen1": "https://m.media-amazon.com/images/I/61OdJeN2lFL.jpg",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "Windows 10 Pro",
-    "precio": 5,
-    "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4aNZd?ver=a4e3&q=90&m=8&h=431&w=767&b=%23FFFFFFFF&l=f&x=584&y=26&s=933&d=524&aim=true"
+      "nombre": "Windows 10 Pro",
+      "precio": 11.95,
+      "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE4aNZd?ver=a4e3&q=90&m=8&h=431&w=767&b=%23FFFFFFFF&l=f&x=584&y=26&s=933&d=524&aim=true",
+      "precioV": "$11.95"
   },
   {
-    "nombre": "Microsoft Office 2019 Professional Plus",
-    "precio": 5,
-    "imagen1": "https://winandofficews.com/usa/wp-content/uploads/sites/2/2022/07/o2019pro.jpg"
+      "nombre": "Microsoft Office 2019 Professional Plus",
+      "precio": 20,
+      "imagen1": "https://winandofficews.com/usa/wp-content/uploads/sites/2/2022/07/o2019pro.jpg",
+      "precioV": "$20.00"
   },
   {
-    "nombre": "Steam Gift Card",
-    "precio": 5,
-    "imagen1": "https://media.gamestop.com/i/gamestop/10116382?$pdp$"
+      "nombre": "Steam Gift Card",
+      "precio": 5,
+      "imagen1": "https://media.gamestop.com/i/gamestop/10116382?$pdp$",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "Maid of Sker",
-    "precio": 5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/ac/Maid_of_Sker_cover.jpg"
+      "nombre": "Maid of Sker",
+      "precio": 5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/ac/Maid_of_Sker_cover.jpg",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "FIFA 23 Points PS4",
-    "precio": 5,
-    "imagen1": "https://www.clavecd.es/wp-content/uploads/FIFA23PointsPS4.jpg"
+      "nombre": "FIFA 23 Points PS4",
+      "precio": 5,
+      "imagen1": "https://www.clavecd.es/wp-content/uploads/FIFA23PointsPS4.jpg",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "Microsoft Office 2021 Pro Plus",
-    "precio": 5,
-    "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWLks3?ver=dc77"
+      "nombre": "Microsoft Office 2021 Pro Plus",
+      "precio": 20,
+      "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RWLks3?ver=dc77",
+      "precioV": "$20.00"
   },
   {
-    "nombre": "Xbox Live Gold",
-    "precio": 5,
-    "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/01/Social_1920x1080.jpg"
+      "nombre": "Xbox Live Gold",
+      "precio": 5,
+      "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/01/Social_1920x1080.jpg",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "Windows 11 Pro",
-    "precio": 5,
-    "imagen1": "https://garciacomputadoras.com.sv/wp-content/uploads/2023/03/Windows-11-Pro-Software.jpg"
+      "nombre": "Windows 11 Pro",
+      "precio": 14.95,
+      "imagen1": "https://garciacomputadoras.com.sv/wp-content/uploads/2023/03/Windows-11-Pro-Software.jpg",
+      "precioV": "$14.95"
   },
   {
-    "nombre": "OlliOlli World",
-    "precio": 5,
-    "imagen1": "https://cdn.vox-cdn.com/thumbor/QtEgwtafPDdBdQpq0bqYxrfANpk=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23213977/olliolli_world_3.jpg"
+      "nombre": "OlliOlli World",
+      "precio": 5,
+      "imagen1": "https://cdn.vox-cdn.com/thumbor/QtEgwtafPDdBdQpq0bqYxrfANpk=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/23213977/olliolli_world_3.jpg",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "AVG TuneUp",
-    "precio": 5,
-    "imagen1": "https://i.pcmag.com/imagery/reviews/015V5ahA2ReEP10YWdqfg78-9..v1624816858.png"
+      "nombre": "AVG TuneUp",
+      "precio": 5,
+      "imagen1": "https://i.pcmag.com/imagery/reviews/015V5ahA2ReEP10YWdqfg78-9..v1624816858.png",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "Xbox Gift Card",
-    "precio": 5,
-    "imagen1": "https://www.ubuy.sv/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFtNndEaTFTWUwuX1NMMTUwMF8uanBn.jpg"
+      "nombre": "Xbox Gift Card",
+      "precio": 5,
+      "imagen1": "https://www.ubuy.sv/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNjFtNndEaTFTWUwuX1NMMTUwMF8uanBn.jpg",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "System Shock",
-    "precio": 5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/482400/capsule_616x353.jpg?t=1685635403"
+      "nombre": "System Shock",
+      "precio": 5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/482400/capsule_616x353.jpg?t=1685635403",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "EA PLAY PC",
-    "precio": 5,
-    "imagen1": "https://media.contentapi.ea.com/content/dam/eacom/images/2020/06/ea-featured-image-ea-play.jpg.adapt.crop191x100.1200w.jpg"
+      "nombre": "EA PLAY PC",
+      "precio": 5,
+      "imagen1": "https://media.contentapi.ea.com/content/dam/eacom/images/2020/06/ea-featured-image-ea-play.jpg.adapt.crop191x100.1200w.jpg",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "Xbox Game Pass PC",
-    "precio": 5,
-    "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/GamePassPCHERO-hero.jpg"
+      "nombre": "Xbox Game Pass PC",
+      "precio": 5,
+      "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/GamePassPCHERO-hero.jpg",
+      "precioV": "Desde $5.00"
   },
   {
-    "nombre": "Injustice 2",
-    "precio": 5,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/cfn/11307E5KevhsRf1A5fO5J5E6EyFwwYnr6PfrU-17MkMzM7lQz-m0j3Ozngwgx2dRUSpQNOHegfxi7c8dz9nl2DtRdkwDstMw.png"
+      "nombre": "Injustice 2",
+      "precio": 5,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/cfn/11307E5KevhsRf1A5fO5J5E6EyFwwYnr6PfrU-17MkMzM7lQz-m0j3Ozngwgx2dRUSpQNOHegfxi7c8dz9nl2DtRdkwDstMw.png",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "PC Building Simulator",
-    "precio": 5,
-    "imagen1": "https://cdn1.epicgames.com/offer/8f5f5eff22f3468fa5551771406fc868/EGS_PCBuildingSimulator_TheIrregularCorporation_S1_2560x1440-053592d64b04adff6734a480dcead96d"
+      "nombre": "PC Building Simulator",
+      "precio": 5,
+      "imagen1": "https://cdn1.epicgames.com/offer/8f5f5eff22f3468fa5551771406fc868/EGS_PCBuildingSimulator_TheIrregularCorporation_S1_2560x1440-053592d64b04adff6734a480dcead96d",
+      "precioV": "$5.00"
   },
   {
-    "nombre": "Human Fall Flat",
-    "precio": 10,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1014/l10ANltlKoaVPD8aT9gHhEij.png"
+      "nombre": "Human Fall Flat",
+      "precio": 10,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202301/1014/l10ANltlKoaVPD8aT9gHhEij.png",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Wallpaper Engine",
-    "precio": 10,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/1200px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif"
+      "nombre": "Wallpaper Engine",
+      "precio": 10,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif/1200px-Animated_Wallpaper_Windows_10_-_Wallpaper_Engine.gif",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Terraria",
-    "precio": 10,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860"
+      "nombre": "Terraria",
+      "precio": 10,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Lost Ark",
-    "precio": 10,
-    "imagen1": "https://images.ctfassets.net/umhrp0op95v1/VvjFjkl41oG52Nf71hZbr/e39168a3549882dd41f8b23187aa576c/LA_Y2_KA_Share_1200x630.jpg"
+      "nombre": "Lost Ark",
+      "precio": 10,
+      "imagen1": "https://images.ctfassets.net/umhrp0op95v1/VvjFjkl41oG52Nf71hZbr/e39168a3549882dd41f8b23187aa576c/LA_Y2_KA_Share_1200x630.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Eset Nod32 Global License",
-    "precio": 10,
-    "imagen1": "https://www.eset.com/fileadmin/ESET/INT/OG_images/og-nod32-antivirus.jpg"
+      "nombre": "Eset Nod32 Global License",
+      "precio": 15,
+      "imagen1": "https://www.eset.com/fileadmin/ESET/INT/OG_images/og-nod32-antivirus.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Don't Starve",
-    "precio": 10,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/d/d2/Don%27t_Starve_cover.jpg"
+      "nombre": "Don't Starve",
+      "precio": 10,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/d/d2/Don%27t_Starve_cover.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "The Ascent",
-    "precio": 10,
-    "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2020/05/TheAscent_HERO.jpg"
+      "nombre": "The Ascent",
+      "precio": 10,
+      "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2020/05/TheAscent_HERO.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
-    "precio": 10,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/s/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-switch/hero"
+      "nombre": "SpongeBob SquarePants Battle for Bikini Bottom Rehydrated",
+      "precio": 10,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_US/games/switch/s/spongebob-squarepants-battle-for-bikini-bottom-rehydrated-switch/hero",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Overcooked 2",
-    "precio": 10,
-    "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9"
+      "nombre": "Overcooked 2",
+      "precio": 10,
+      "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/egs-overcooked2-tall_1200x1600-fbae89fad70c05cd1979316f620e64a9",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Among Us",
-    "precio": 10,
-    "imagen1": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec"
+      "nombre": "Among Us",
+      "precio": 10,
+      "imagen1": "https://play-lh.googleusercontent.com/8ddL1kuoNUB5vUvgDVjYY3_6HwQcrg1K2fd_R8soD-e2QYj8fT9cfhfh3G0hnSruLKec",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "McAfee Internet Security 2019",
-    "precio": 10,
-    "imagen1": "https://2gosoftware.co.uk/image/cache/catalog/McAfee/Packshot_InternetSecurity-1250x750.jpg"
+      "nombre": "McAfee Internet Security 2019",
+      "precio": 15,
+      "imagen1": "https://2gosoftware.co.uk/image/cache/catalog/McAfee/Packshot_InternetSecurity-1250x750.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Microsoft Office Home & Student 2019",
-    "precio": 10,
-    "imagen1": "https://msofficestore.us/wp-content/uploads/2021/03/Office-Home-Student.jpg"
+      "nombre": "Microsoft Office Home & Student 2019",
+      "precio": 20,
+      "imagen1": "https://msofficestore.us/wp-content/uploads/2021/03/Office-Home-Student.jpg",
+      "precioV": "$20.00"
   },
   {
-    "nombre": "Xbox Game Pass Ultimate",
-    "precio": 10,
-    "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2TAjc?q=90&o=f&w=177&h=265"
+      "nombre": "Xbox Game Pass Ultimate",
+      "precio": 10,
+      "imagen1": "https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE2TAjc?q=90&o=f&w=177&h=265",
+      "precioV": "Desde $10.00"
   },
   {
-    "nombre": "Potion Craft Alchemist Simulator",
-    "precio": 10,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1210320/capsule_616x353.jpg?t=1671467586"
+      "nombre": "Potion Craft Alchemist Simulator",
+      "precio": 10,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1210320/capsule_616x353.jpg?t=1671467586",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Elite Dangerous",
-    "precio": 10,
-    "imagen1": "https://d3tidaycr45ky4.cloudfront.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/d/ed_base_game_refresh_frontier_store_assets_product_square_image_1080x1080.png"
+      "nombre": "Elite Dangerous",
+      "precio": 10,
+      "imagen1": "https://d3tidaycr45ky4.cloudfront.net/media/catalog/product/cache/1/image/9df78eab33525d08d6e5fb8d27136e95/e/d/ed_base_game_refresh_frontier_store_assets_product_square_image_1080x1080.png",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Battlenet Gift Card",
-    "precio": 10,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5823/5823010_sd.jpg"
+      "nombre": "Battlenet Gift Card",
+      "precio": 10,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5823/5823010_sd.jpg",
+      "precioV": "Desde $10.00"
   },
   {
-    "nombre": "Mortal Kombat 11",
-    "precio": 10,
-    "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/h/e/header_10_12_.jpg"
+      "nombre": "Mortal Kombat 11",
+      "precio": 10,
+      "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/h/e/header_10_12_.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Pathfinder Wrath of the Righteous",
-    "precio": 10,
-    "imagen1": "https://assets-prd.ignimgs.com/2021/09/29/pathfinder-wrathoftherighteous-blogroll-1632945487351.jpg"
+      "nombre": "Pathfinder Wrath of the Righteous",
+      "precio": 10,
+      "imagen1": "https://assets-prd.ignimgs.com/2021/09/29/pathfinder-wrathoftherighteous-blogroll-1632945487351.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "The Elder Scrolls Online",
-    "precio": 10,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_616x353.jpg?t=1684958334"
+      "nombre": "The Elder Scrolls Online",
+      "precio": 10,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_616x353.jpg?t=1684958334",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "F1 Manager 2022",
-    "precio": 10,
-    "imagen1": "https://cdn.mos.cms.futurecdn.net/LS53ajwxjEzw8EMqgyVVST.jpg"
+      "nombre": "F1 Manager 2022",
+      "precio": 10,
+      "imagen1": "https://cdn.mos.cms.futurecdn.net/LS53ajwxjEzw8EMqgyVVST.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "The Elder Scrolls Online Morrowind",
-    "precio": 10,
-    "imagen1": "https://esosslfiles-a.akamaihd.net/ape/uploads/2022/04/5c11314c590d8759f6b3b22191670265.jpg"
+      "nombre": "The Elder Scrolls Online Morrowind",
+      "precio": 10,
+      "imagen1": "https://esosslfiles-a.akamaihd.net/ape/uploads/2022/04/5c11314c590d8759f6b3b22191670265.jpg",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Phantom Breaker Omnia",
-    "precio": 10,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1184560/header.jpg?t=1659550555"
+      "nombre": "Phantom Breaker Omnia",
+      "precio": 10,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1184560/header.jpg?t=1659550555",
+      "precioV": "$10.00"
   },
   {
-    "nombre": "Rust Xbox One",
-    "precio": 12,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11134990/Rust---Xbox-One?$pdp$"
+      "nombre": "Rust Xbox One",
+      "precio": 12,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11134990/Rust---Xbox-One?$pdp$",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Orcs Must Die 3",
-    "precio": 12,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1522820/header.jpg?t=1671818592"
+      "nombre": "Orcs Must Die 3",
+      "precio": 12,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1522820/header.jpg?t=1671818592",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Planet Zoo",
-    "precio": 12,
-    "imagen1": "https://www-origin.planetzoogame.com/images/og_image.jpg"
+      "nombre": "Planet Zoo",
+      "precio": 12,
+      "imagen1": "https://www-origin.planetzoogame.com/images/og_image.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "GTA 5",
-    "precio": 12,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+      "nombre": "GTA 5",
+      "precio": 12,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Skul The Hero Slayer",
-    "precio": 12,
-    "imagen1": "https://i.ytimg.com/vi/jqk8JL76fXI/maxresdefault.jpg"
+      "nombre": "Skul The Hero Slayer",
+      "precio": 12,
+      "imagen1": "https://i.ytimg.com/vi/jqk8JL76fXI/maxresdefault.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Dead Cells",
-    "precio": 12,
-    "imagen1": "https://i.ytimg.com/vi/rUb-6F1TV6M/maxresdefault.jpg"
+      "nombre": "Dead Cells",
+      "precio": 12,
+      "imagen1": "https://i.ytimg.com/vi/rUb-6F1TV6M/maxresdefault.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Hot Wheels Unleashed",
-    "precio": 12,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1008/rS6hKW6RluVColmbTAIt9Fl1.png"
+      "nombre": "Hot Wheels Unleashed",
+      "precio": 12,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1008/rS6hKW6RluVColmbTAIt9Fl1.png",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "FIFA 23 Points PC",
-    "precio": 12,
-    "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/2/5/25652.jpg"
+      "nombre": "FIFA 23 Points PC",
+      "precio": 12,
+      "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/2/5/25652.jpg",
+      "precioV": "Desde $12.00"
   },
   {
-    "nombre": "SUPERHOT VR",
-    "precio": 12,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202009/2507/CV8njKTXrE88NlFn1tcsiJ7G.png"
+      "nombre": "SUPERHOT VR",
+      "precio": 12,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202009/2507/CV8njKTXrE88NlFn1tcsiJ7G.png",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Borderlands 3",
-    "precio": 12,
-    "imagen1": "https://cdn.2kgames.com/borderlands/news/Article+Embeds/Second+Anniversary/popsychle-full.jpg"
+      "nombre": "Borderlands 3",
+      "precio": 12,
+      "imagen1": "https://cdn.2kgames.com/borderlands/news/Article+Embeds/Second+Anniversary/popsychle-full.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Conan Exiles",
-    "precio": 12,
-    "imagen1": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68"
+      "nombre": "Conan Exiles",
+      "precio": 12,
+      "imagen1": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Forest Ranger Simulator",
-    "precio": 12,
-    "imagen1": "https://assets-prd.ignimgs.com/2023/01/03/forestrangersim-1672767523916.jpg"
+      "nombre": "Forest Ranger Simulator",
+      "precio": 12,
+      "imagen1": "https://assets-prd.ignimgs.com/2023/01/03/forestrangersim-1672767523916.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Twelve Minutes",
-    "precio": 12,
-    "imagen1": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3A3QRYNJ5FC4RGQ3U3V5LCCUAM.jpg"
+      "nombre": "Twelve Minutes",
+      "precio": 12,
+      "imagen1": "https://cloudfront-us-east-1.images.arcpublishing.com/infobae/3A3QRYNJ5FC4RGQ3U3V5LCCUAM.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Two Point Hospital",
-    "precio": 12,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/535930/capsule_616x353.jpg?t=1677839073"
+      "nombre": "Two Point Hospital",
+      "precio": 12,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/535930/capsule_616x353.jpg?t=1677839073",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Little Nightmares 2",
-    "precio": 12,
-    "imagen1": "https://static.bandainamcoent.eu/high/little-nightmares/little-nightmares-2/00-page-setup/ln2_game-thumbnail.jpg"
+      "nombre": "Little Nightmares 2",
+      "precio": 12,
+      "imagen1": "https://static.bandainamcoent.eu/high/little-nightmares/little-nightmares-2/00-page-setup/ln2_game-thumbnail.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Risk of Rain 2",
-    "precio": 12,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Risk_of_Rain_2.jpg/220px-Risk_of_Rain_2.jpg"
+      "nombre": "Risk of Rain 2",
+      "precio": 12,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Risk_of_Rain_2.jpg/220px-Risk_of_Rain_2.jpg",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Jurassic World Evolution 2",
-    "precio": 12,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1244460/capsule_616x353.jpg?t=1680174609"
+      "nombre": "Jurassic World Evolution 2",
+      "precio": 12,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1244460/capsule_616x353.jpg?t=1680174609",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Nintendo Switch Online",
-    "precio": 12,
-    "imagen1": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale/ncom/es_LA/switch/online-service/posters/NSO_EN_1080_050521B_SP_h264"
+      "nombre": "Nintendo Switch Online",
+      "precio": 12,
+      "imagen1": "https://assets.nintendo.com/image/upload/ar_16:9,b_auto:border,c_lpad/b_white/f_auto/q_auto/dpr_2.0/c_scale/ncom/es_LA/switch/online-service/posters/NSO_EN_1080_050521B_SP_h264",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Doom Eternal",
-    "precio": 12,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/782330/capsule_616x353.jpg?t=1661971606"
+      "nombre": "Doom Eternal",
+      "precio": 12,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/782330/capsule_616x353.jpg?t=1661971606",
+      "precioV": "$12.00"
   },
   {
-    "nombre": "Into the Radius VR",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1012790/header.jpg?t=1683099724"
+      "nombre": "Into the Radius VR",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1012790/header.jpg?t=1683099724",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Hard West 2",
-    "precio": 15,
-    "imagen1": "https://images.gog-statics.com/0e034d11b572681366fc7484e902cace64ca1cf2d6b3621dc64c2eb0f1002852_product_card_v2_mobile_slider_639.jpg"
+      "nombre": "Hard West 2",
+      "precio": 15,
+      "imagen1": "https://images.gog-statics.com/0e034d11b572681366fc7484e902cace64ca1cf2d6b3621dc64c2eb0f1002852_product_card_v2_mobile_slider_639.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Playstation Gift Cards",
-    "precio": 15,
-    "imagen1": "https://m.media-amazon.com/images/I/61+ggd56S4L.jpg"
+      "nombre": "Playstation Gift Cards",
+      "precio": 15,
+      "imagen1": "https://m.media-amazon.com/images/I/61+ggd56S4L.jpg",
+      "precioV": "Desde $15.00"
   },
   {
-    "nombre": "Deathloop",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_616x353.jpg?t=1685023314"
+      "nombre": "Deathloop",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1252330/capsule_616x353.jpg?t=1685023314",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Back 4 Blood",
-    "precio": 15,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.3334.63183727176145146.d84d29ef-df3a-4a5d-96b4-f1a7d9797aec.89ddda28-6451-409c-aa56-3a58a278e8b1"
+      "nombre": "Back 4 Blood",
+      "precio": 15,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.3334.63183727176145146.d84d29ef-df3a-4a5d-96b4-f1a7d9797aec.89ddda28-6451-409c-aa56-3a58a278e8b1",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Oxygen Not Included",
-    "precio": 15,
-    "imagen1": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg"
+      "nombre": "Oxygen Not Included",
+      "precio": 15,
+      "imagen1": "https://cdn1.epicgames.com/lotus/offer/EGS_OxygenNotIncluded_KleiEntertainment_S1-2560x1440-9401c73b7b5dd47ea040e7db94615490.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "NBA 2K23",
-    "precio": 15,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2200/vLdTCoRLhhHmAAqRypgAOlAI.png"
+      "nombre": "NBA 2K23",
+      "precio": 15,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/2200/vLdTCoRLhhHmAAqRypgAOlAI.png",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Assetto Corsa Competizione",
-    "precio": 15,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Assetto_Corsa_Competizione_cover_art_full.jpg/220px-Assetto_Corsa_Competizione_cover_art_full.jpg"
+      "nombre": "Assetto Corsa Competizione",
+      "precio": 15,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/a/aa/Assetto_Corsa_Competizione_cover_art_full.jpg/220px-Assetto_Corsa_Competizione_cover_art_full.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Doomblade",
-    "precio": 15,
-    "imagen1": "https://i.3djuegos.com/juegos/19121/doomblade/fotos/ficha/doomblade-5810639.jpg"
+      "nombre": "Doomblade",
+      "precio": 15,
+      "imagen1": "https://i.3djuegos.com/juegos/19121/doomblade/fotos/ficha/doomblade-5810639.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Visage",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/594330/capsule_616x353.jpg?t=1607559678"
+      "nombre": "Visage",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/594330/capsule_616x353.jpg?t=1607559678",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Beat Saber",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/620980/capsule_616x353.jpg?t=1685699858"
+      "nombre": "Beat Saber",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/620980/capsule_616x353.jpg?t=1685699858",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "The Walking Dead Saints & Sinners",
-    "precio": 15,
-    "imagen1": "https://assets.skybound.com/wp-content/uploads/2019/10/12163815/saints-and-sinners-feat.jpg"
+      "nombre": "The Walking Dead Saints & Sinners",
+      "precio": 15,
+      "imagen1": "https://assets.skybound.com/wp-content/uploads/2019/10/12163815/saints-and-sinners-feat.jpg",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Ragnarock VR",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1345820/capsule_616x353.jpg?t=1682583372"
+      "nombre": "Ragnarock VR",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1345820/capsule_616x353.jpg?t=1682583372",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Green Hell",
-    "precio": 15,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0411/3Lu6EBxzd6OfqHoW7bf89yvT.png"
+      "nombre": "Green Hell",
+      "precio": 15,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0411/3Lu6EBxzd6OfqHoW7bf89yvT.png",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Disco Elysium",
-    "precio": 15,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1214/gcMVHVG82HnDo0A6WHl6WR6H.png"
+      "nombre": "Disco Elysium",
+      "precio": 15,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202102/1214/gcMVHVG82HnDo0A6WHl6WR6H.png",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "Spyro Reignited Trilogy",
-    "precio": 15,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/996580/header.jpg?t=1588789018"
+      "nombre": "Spyro Reignited Trilogy",
+      "precio": 15,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/996580/header.jpg?t=1588789018",
+      "precioV": "$15.00"
   },
   {
-    "nombre": "The Witcher 3 Wild Hunt",
-    "precio": 22.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f"
+      "nombre": "The Witcher 3 Wild Hunt",
+      "precio": 22.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Monster Hunter World",
-    "precio": 22.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/582010/capsule_616x353.jpg?t=1661838392"
+      "nombre": "Monster Hunter World",
+      "precio": 22.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/582010/capsule_616x353.jpg?t=1661838392",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "WRC Generations",
-    "precio": 22.5,
-    "imagen1": "https://www.gamereactor.eu/media/41/wrcgenerations_3894163b.jpg"
+      "nombre": "WRC Generations",
+      "precio": 22.5,
+      "imagen1": "https://www.gamereactor.eu/media/41/wrcgenerations_3894163b.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "GTA 5 Xbox Series",
-    "precio": 22.5,
-    "imagen1": "https://m.media-amazon.com/images/I/71+B4obYxML.jpg"
+      "nombre": "GTA 5 Xbox Series",
+      "precio": 22.5,
+      "imagen1": "https://m.media-amazon.com/images/I/71+B4obYxML.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Evil Dead The Game",
-    "precio": 22.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGame_SaberInteractiveInc_S1_2560x1440-fde136bc32f2b93006b9df0bc421fec0_2560x1440-fde136bc32f2b93006b9df0bc421fec0"
+      "nombre": "Evil Dead The Game",
+      "precio": 22.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/95e09a8c24c44684bca1a6f25aea920c/EGS_EvilDeadTheGame_SaberInteractiveInc_S1_2560x1440-fde136bc32f2b93006b9df0bc421fec0_2560x1440-fde136bc32f2b93006b9df0bc421fec0",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "The Dark Pictures House of Ashes",
-    "precio": 22.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1281590/capsule_616x353.jpg?t=1676857304"
+      "nombre": "The Dark Pictures House of Ashes",
+      "precio": 22.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1281590/capsule_616x353.jpg?t=1676857304",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Dragon Ball Z Kakarot",
-    "precio": 22.5,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11148585/Dragon-Ball-Z-Kakarot-Plus-A-New-Power-Awakens-Set---Nintendo-Switch?$pdp$"
+      "nombre": "Dragon Ball Z Kakarot",
+      "precio": 22.5,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11148585/Dragon-Ball-Z-Kakarot-Plus-A-New-Power-Awakens-Set---Nintendo-Switch?$pdp$",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Assassin’s Creed Valhalla Xbox One",
-    "precio": 22.5,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31"
+      "nombre": "Assassin\u2019s Creed Valhalla Xbox One",
+      "precio": 22.5,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.1547.14585440003614248.9f7109bf-73f7-4bc7-ba61-1eeb006d905a.75930d81-6e85-436d-9b61-1279b8dd9b31",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Kaspersky Anti Virus 2019",
-    "precio": 22.5,
-    "imagen1": "https://cdn.mos.cms.futurecdn.net/9SvGhxdMYL3JLj3siAVbDJ.jpg"
+      "nombre": "Kaspersky Anti Virus 2019",
+      "precio": 25,
+      "imagen1": "https://cdn.mos.cms.futurecdn.net/9SvGhxdMYL3JLj3siAVbDJ.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Anno 1800",
-    "precio": 22.5,
-    "imagen1": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15gUQfMVpxkVAQpnN6sgy3/af5c4f83cbdb3dba533437e5b7001dc7/ANNO_header_keyart.jpg"
+      "nombre": "Anno 1800",
+      "precio": 22.5,
+      "imagen1": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/15gUQfMVpxkVAQpnN6sgy3/af5c4f83cbdb3dba533437e5b7001dc7/ANNO_header_keyart.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Riders Republic",
-    "precio": 22.5,
-    "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208"
+      "nombre": "Riders Republic",
+      "precio": 22.5,
+      "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EN_MAD_STD_GAME_EPIC_Store_Portrait_1200x1600_EN_1200x1600-ddd4f456e3035ce50ddfa0d358efa208",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "FAR CRY 6",
-    "precio": 22.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/4MxzDZKZwtEWyMWZghvwd7bQ.jpg"
+      "nombre": "FAR CRY 6",
+      "precio": 22.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/4MxzDZKZwtEWyMWZghvwd7bQ.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Battlefield 2042",
-    "precio": 22.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Battlefield_2042_cover_art.jpg/220px-Battlefield_2042_cover_art.jpg"
+      "nombre": "Battlefield 2042",
+      "precio": 22.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/e/ec/Battlefield_2042_cover_art.jpg/220px-Battlefield_2042_cover_art.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Victoria 3 Voice of the People",
-    "precio": 22.5,
-    "imagen1": "https://i.ytimg.com/vi/jAEsJek9fW4/maxresdefault.jpg"
+      "nombre": "Victoria 3 Voice of the People",
+      "precio": 22.5,
+      "imagen1": "https://i.ytimg.com/vi/jAEsJek9fW4/maxresdefault.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Stardew Valley",
-    "precio": 22.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/440820/capsule_616x353.jpg?t=1581550226"
+      "nombre": "Stardew Valley",
+      "precio": 22.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/440820/capsule_616x353.jpg?t=1581550226",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Sons of the Forest",
-    "precio": 22.5,
-    "imagen1": "https://cdn.vox-cdn.com/thumbor/uYLHaf7Aa4BxOXHkmMdR_V4a0e8=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24458380/Sons_of_the_Forest_Early_Access_Review_7.jpg"
+      "nombre": "Sons of the Forest",
+      "precio": 22.5,
+      "imagen1": "https://cdn.vox-cdn.com/thumbor/uYLHaf7Aa4BxOXHkmMdR_V4a0e8=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/24458380/Sons_of_the_Forest_Early_Access_Review_7.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Farming Simulator 22",
-    "precio": 22.5,
-    "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938"
+      "nombre": "Farming Simulator 22",
+      "precio": 22.5,
+      "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Monster Hunter Rise",
-    "precio": 22.5,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000029016/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab"
+      "nombre": "Monster Hunter Rise",
+      "precio": 22.5,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000029016/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "GRID Legends",
-    "precio": 22.5,
-    "imagen1": "https://media.contentapi.ea.com/content/dam/eacom/grid/grid-legends/images/2021/07/grid-legends-featured-image-2x.jpg.adapt.crop191x100.1200w.jpg"
+      "nombre": "GRID Legends",
+      "precio": 22.5,
+      "imagen1": "https://media.contentapi.ea.com/content/dam/eacom/grid/grid-legends/images/2021/07/grid-legends-featured-image-2x.jpg.adapt.crop191x100.1200w.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Outriders",
-    "precio": 22.5,
-    "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/03/Outriders_Launch-Thumbnail-XBOX-wireplaceholder_JPG.jpg"
+      "nombre": "Outriders",
+      "precio": 22.5,
+      "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2021/03/Outriders_Launch-Thumbnail-XBOX-wireplaceholder_JPG.jpg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Resident Evil Village",
-    "precio": 22.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png"
+      "nombre": "Resident Evil Village",
+      "precio": 22.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202101/0812/FkzwjnJknkrFlozkTdeQBMub.png",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Star Wars The Old Republic",
-    "precio": 22.5,
-    "imagen1": "https://lumiere-a.akamaihd.net/v1/images/620bd127e5685600014cc55f-image_5206bc40.jpeg"
+      "nombre": "Star Wars The Old Republic",
+      "precio": 22.5,
+      "imagen1": "https://lumiere-a.akamaihd.net/v1/images/620bd127e5685600014cc55f-image_5206bc40.jpeg",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Stardew Valley Nintendo Switch",
-    "precio": 22.5,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6423/6423410_sd.jpg;maxHeight=640;maxWidth=550"
+      "nombre": "Stardew Valley Nintendo Switch",
+      "precio": 22.5,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6423/6423410_sd.jpg;maxHeight=640;maxWidth=550",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Dordogne",
-    "precio": 22.5,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000046938/9b1dd5c91d15a923209a56c35a69dd5167146af349b71ff804df691638364116"
+      "nombre": "Dordogne",
+      "precio": 22.5,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000046938/9b1dd5c91d15a923209a56c35a69dd5167146af349b71ff804df691638364116",
+      "precioV": "$22.50"
   },
   {
-    "nombre": "Sea of Thieves",
-    "precio": 25,
-    "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/03/Concept-1-da8f7381257a4cd9649e.jpg?fit=1920%2C1007&ssl=1"
+      "nombre": "Sea of Thieves",
+      "precio": 25,
+      "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/03/Concept-1-da8f7381257a4cd9649e.jpg?fit=1920%2C1007&ssl=1",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Naraka Bladepoint",
-    "precio": 25,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_616x353.jpg?t=1685534259"
+      "nombre": "Naraka Bladepoint",
+      "precio": 25,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1203220/capsule_616x353.jpg?t=1685534259",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "HUMANKIND",
-    "precio": 25,
-    "imagen1": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97"
+      "nombre": "HUMANKIND",
+      "precio": 25,
+      "imagen1": "https://cdn1.epicgames.com/offer/02c14a01b7044db98de3f3a10813a42e/HK_Landscape_2560x1440-0233eae757a0e921c879b7be3a697d97",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "F1 22",
-    "precio": 25,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/F1_22_cover_art.jpg/220px-F1_22_cover_art.jpg"
+      "nombre": "F1 22",
+      "precio": 25,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/F1_22_cover_art.jpg/220px-F1_22_cover_art.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Zoria Age of Shattering",
-    "precio": 25,
-    "imagen1": "https://ksr-ugc.imgix.net/assets/038/959/007/0e4e320401639a8d38c50f8f82ed81e1_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1666170807&auto=format&frame=1&q=92&s=bd64ec18efa6ed0a5c380aff75ed4398"
+      "nombre": "Zoria Age of Shattering",
+      "precio": 25,
+      "imagen1": "https://ksr-ugc.imgix.net/assets/038/959/007/0e4e320401639a8d38c50f8f82ed81e1_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1666170807&auto=format&frame=1&q=92&s=bd64ec18efa6ed0a5c380aff75ed4398",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Madden NFL 23",
-    "precio": 25,
-    "imagen1": "https://m.media-amazon.com/images/I/71jNjAfLBuL.jpg"
+      "nombre": "Madden NFL 23",
+      "precio": 25,
+      "imagen1": "https://m.media-amazon.com/images/I/71jNjAfLBuL.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "We Were Here Forever",
-    "precio": 25,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1341290/capsule_616x353.jpg?t=1682429498"
+      "nombre": "We Were Here Forever",
+      "precio": 25,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1341290/capsule_616x353.jpg?t=1682429498",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Cuphead",
-    "precio": 25,
-    "imagen1": "https://gmedia.playstation.com/is/image/SIEPDC/cuphead-keyart-01-en-15dec21?$native$"
+      "nombre": "Cuphead",
+      "precio": 25,
+      "imagen1": "https://gmedia.playstation.com/is/image/SIEPDC/cuphead-keyart-01-en-15dec21?$native$",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "NBA 2K23 Xbox Series",
-    "precio": 25,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11206859-11206851"
+      "nombre": "NBA 2K23 Xbox Series",
+      "precio": 25,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11206859-11206851",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Hello Neighbor Search and Rescue",
-    "precio": 25,
-    "imagen1": "https://i.ytimg.com/vi/e2W8-RN7W20/maxresdefault.jpg"
+      "nombre": "Hello Neighbor Search and Rescue",
+      "precio": 25,
+      "imagen1": "https://i.ytimg.com/vi/e2W8-RN7W20/maxresdefault.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Phasmophobia",
-    "precio": 25,
-    "imagen1": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/phasmophobia/f/f7/GrandmaFar.png?width=1280"
+      "nombre": "Phasmophobia",
+      "precio": 25,
+      "imagen1": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/phasmophobia/f/f7/GrandmaFar.png?width=1280",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Resident Evil Village Xbox Series",
-    "precio": 25,
-    "imagen1": "https://m.media-amazon.com/images/I/71hPmCqq8vL.jpg"
+      "nombre": "Resident Evil Village Xbox Series",
+      "precio": 25,
+      "imagen1": "https://m.media-amazon.com/images/I/71hPmCqq8vL.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Red Dead Redemption 2",
-    "precio": 25,
-    "imagen1": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png"
+      "nombre": "Red Dead Redemption 2",
+      "precio": 25,
+      "imagen1": "https://image.api.playstation.com/cdn/UP1004/CUSA03041_00/Hpl5MtwQgOVF9vJqlfui6SDB5Jl4oBSq.png",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Ed-0 Zombie Uprising",
-    "precio": 25,
-    "imagen1": "https://i.ytimg.com/vi/gCW-d5E-62o/hqdefault.jpg"
+      "nombre": "Ed-0 Zombie Uprising",
+      "precio": 25,
+      "imagen1": "https://i.ytimg.com/vi/gCW-d5E-62o/hqdefault.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "It Takes Two",
-    "precio": 25,
-    "imagen1": "https://i.ytimg.com/vi/ohClxMmNLQQ/maxresdefault.jpg"
+      "nombre": "It Takes Two",
+      "precio": 25,
+      "imagen1": "https://i.ytimg.com/vi/ohClxMmNLQQ/maxresdefault.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "The Elder Scrolls 5 Skyrim VR",
-    "precio": 25,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/611670/capsule_616x353.jpg?t=1564002443"
+      "nombre": "The Elder Scrolls 5 Skyrim VR",
+      "precio": 25,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/611670/capsule_616x353.jpg?t=1564002443",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "PGA Tour 2K23",
-    "precio": 25,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1588010/capsule_616x353.jpg?t=1675881282"
+      "nombre": "PGA Tour 2K23",
+      "precio": 25,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1588010/capsule_616x353.jpg?t=1675881282",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Goat Simulator 3",
-    "precio": 25,
-    "imagen1": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S1_2560x1440-36e3f3b71ecbcfa3e74ca774d43afdfc"
+      "nombre": "Goat Simulator 3",
+      "precio": 25,
+      "imagen1": "https://cdn1.epicgames.com/offer/50bbaf85f4454b1c88786efeede5b302/EGS_GoatSimulator3_CoffeeStainNorthAB_S1_2560x1440-36e3f3b71ecbcfa3e74ca774d43afdfc",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Valheim",
-    "precio": 25,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg?t=1676365340"
+      "nombre": "Valheim",
+      "precio": 25,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/892970/header.jpg?t=1676365340",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Red Dead Redemption 2 Xbox One",
-    "precio": 25,
-    "imagen1": "https://m.media-amazon.com/images/I/81bbAeAG6vS.jpg"
+      "nombre": "Red Dead Redemption 2 Xbox One",
+      "precio": 25,
+      "imagen1": "https://m.media-amazon.com/images/I/81bbAeAG6vS.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "Blood Bowl 3",
-    "precio": 25,
-    "imagen1": "https://i.ytimg.com/vi/8I-CJdkMB8A/maxresdefault.jpg"
+      "nombre": "Blood Bowl 3",
+      "precio": 25,
+      "imagen1": "https://i.ytimg.com/vi/8I-CJdkMB8A/maxresdefault.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "ARK Survival Evolved",
-    "precio": 25,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202010/0818/HVUPJTyjOslwxbwCC8edPC45.png"
+      "nombre": "ARK Survival Evolved",
+      "precio": 25,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202010/0818/HVUPJTyjOslwxbwCC8edPC45.png",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "LEGO Star Wars The Skywalker Saga",
-    "precio": 25,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2223/MPrbcZ0Y2VVExG7jXxIJv8fy.jpg"
+      "nombre": "LEGO Star Wars The Skywalker Saga",
+      "precio": 25,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202112/2223/MPrbcZ0Y2VVExG7jXxIJv8fy.jpg",
+      "precioV": "$25.00"
   },
   {
-    "nombre": "My Friend Peppa Pig",
-    "precio": 27.5,
-    "imagen1": "https://i.ytimg.com/vi/z4ykoLMt11I/maxresdefault.jpg"
+      "nombre": "My Friend Peppa Pig",
+      "precio": 27.5,
+      "imagen1": "https://i.ytimg.com/vi/z4ykoLMt11I/maxresdefault.jpg",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Minecraft",
-    "precio": 27.5,
-    "imagen1": "https://www.minecraft.net/content/dam/games/badger/key-art/MinecraftLegends_KeyArt_786x786.jpg"
+      "nombre": "Minecraft",
+      "precio": 27.5,
+      "imagen1": "https://www.minecraft.net/content/dam/games/badger/key-art/MinecraftLegends_KeyArt_786x786.jpg",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Against the Storm",
-    "precio": 27.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S1_2560x1440-f0401f4bba79c094784f7b39b0b4dda9"
+      "nombre": "Against the Storm",
+      "precio": 27.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/93eeeab14a3d45b8bf5586a900137733/EGS_AgainsttheStorm_EremiteGames_S1_2560x1440-f0401f4bba79c094784f7b39b0b4dda9",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "FIFA 23",
-    "precio": 27.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png"
+      "nombre": "FIFA 23",
+      "precio": 27.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/GU1vXFJpbzGYNV6UN3U0Cnnb.png",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "SMALLAND",
-    "precio": 27.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/390584f0f63a4e69978eafa4d4fce9e7/EGS_SmallandSurvivetheWilds_MergeGamesLtd_S1_2560x1440-6b34faee679082a206a5b83146e250ed?h=270&quality=medium&resize=1&w=480"
+      "nombre": "SMALLAND",
+      "precio": 27.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/390584f0f63a4e69978eafa4d4fce9e7/EGS_SmallandSurvivetheWilds_MergeGamesLtd_S1_2560x1440-6b34faee679082a206a5b83146e250ed?h=270&quality=medium&resize=1&w=480",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Minecraft Legends",
-    "precio": 27.5,
-    "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/04/Minecraft-Legends-Official-Launch-Trailer-Thumbnail-16_9_logo-9ae89b03991fe9e08a91.jpg?fit=1920%2C1080&ssl=1"
+      "nombre": "Minecraft Legends",
+      "precio": 27.5,
+      "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/04/Minecraft-Legends-Official-Launch-Trailer-Thumbnail-16_9_logo-9ae89b03991fe9e08a91.jpg?fit=1920%2C1080&ssl=1",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Raft",
-    "precio": 27.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/648800/capsule_616x353.jpg?t=1655744208"
+      "nombre": "Raft",
+      "precio": 27.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/648800/capsule_616x353.jpg?t=1655744208",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Warhammer 40K Boltgun",
-    "precio": 27.5,
-    "imagen1": "https://i.ytimg.com/vi/PCDPIrqZ2GU/maxresdefault.jpg"
+      "nombre": "Warhammer 40K Boltgun",
+      "precio": 27.5,
+      "imagen1": "https://i.ytimg.com/vi/PCDPIrqZ2GU/maxresdefault.jpg",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Bus Simulator 21",
-    "precio": 27.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/976590/capsule_616x353.jpg?t=1684319365"
+      "nombre": "Bus Simulator 21",
+      "precio": 27.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/976590/capsule_616x353.jpg?t=1684319365",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Minecraft Dungeons",
-    "precio": 27.5,
-    "imagen1": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png"
+      "nombre": "Minecraft Dungeons",
+      "precio": 27.5,
+      "imagen1": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA18779_00/4/i_c7b0467e8d83d7fa53d63d40a50e65e5da0edc39e07306e356cf5a6f2aba1977/i/icon0.png",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "PowerWash Simulator",
-    "precio": 27.5,
-    "imagen1": "https://futurlab.co.uk/interface/wp-content/uploads/2022/08/PowerWash-Simulator.jpg"
+      "nombre": "PowerWash Simulator",
+      "precio": 27.5,
+      "imagen1": "https://futurlab.co.uk/interface/wp-content/uploads/2022/08/PowerWash-Simulator.jpg",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "My Time at Sandrock",
-    "precio": 27.5,
-    "imagen1": "https://ksr-ugc.imgix.net/assets/031/130/376/5ed52c0f2b96af5ebdad6a9cd3dddc99_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1603467102&auto=format&frame=1&q=92&s=101daa2368016f2a90cbcd984cc4ec3a"
+      "nombre": "My Time at Sandrock",
+      "precio": 27.5,
+      "imagen1": "https://ksr-ugc.imgix.net/assets/031/130/376/5ed52c0f2b96af5ebdad6a9cd3dddc99_original.jpg?ixlib=rb-4.0.2&crop=faces&w=1552&h=873&fit=crop&v=1603467102&auto=format&frame=1&q=92&s=101daa2368016f2a90cbcd984cc4ec3a",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Dune Spice Wars",
-    "precio": 27.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/b/ba/Dune_Spice_Wars_Cover_Art.jpg"
+      "nombre": "Dune Spice Wars",
+      "precio": 27.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/b/ba/Dune_Spice_Wars_Cover_Art.jpg",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "DREDGE",
-    "precio": 27.5,
-    "imagen1": "https://static.wixstatic.com/media/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png/v1/fit/w_2500,h_1330,al_c/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png"
+      "nombre": "DREDGE",
+      "precio": 27.5,
+      "imagen1": "https://static.wixstatic.com/media/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png/v1/fit/w_2500,h_1330,al_c/e609d3_dbc3f1ee8e294d579331eaa261025e4c~mv2.png",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Gunfire Reborn",
-    "precio": 27.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg?t=1685616591"
+      "nombre": "Gunfire Reborn",
+      "precio": 27.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1217060/header.jpg?t=1685616591",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "Divinity Original Sin 2",
-    "precio": 27.5,
-    "imagen1": "https://p325k7wa.twic.pics/high/divinity/divinity-original-sin-2/02-screenshots/2-arena-mode/dos2_arena-mode%20(1).jpg?twic=v1/cover=800x889/step=10/quality=80"
+      "nombre": "Divinity Original Sin 2",
+      "precio": 27.5,
+      "imagen1": "https://p325k7wa.twic.pics/high/divinity/divinity-original-sin-2/02-screenshots/2-arena-mode/dos2_arena-mode%20(1).jpg?twic=v1/cover=800x889/step=10/quality=80",
+      "precioV": "$27.50"
   },
   {
-    "nombre": "FINAL FANTASY 14 Online",
-    "precio": 30,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_616x353.jpg?t=1684850999"
+      "nombre": "FINAL FANTASY 14 Online",
+      "precio": 30,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/39210/capsule_616x353.jpg?t=1684850999",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Need For Speed Unbound Xbox Series",
-    "precio": 30,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.32406.14329152328871129.0334fb99-36ba-478e-b039-e85471f0b85a.4662f912-e82f-4d7a-a3aa-fa6a90655617?q=90&w=480&h=270"
+      "nombre": "Need For Speed Unbound Xbox Series",
+      "precio": 30,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.32406.14329152328871129.0334fb99-36ba-478e-b039-e85471f0b85a.4662f912-e82f-4d7a-a3aa-fa6a90655617?q=90&w=480&h=270",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Nintendo Switch Online 12 Months Nintendo Switch",
-    "precio": 30,
-    "imagen1": "https://m.media-amazon.com/images/I/71r132RgmmL._AC_UF894,1000_QL80_.jpg"
+      "nombre": "Nintendo Switch Online 12 Months Nintendo Switch",
+      "precio": 30,
+      "imagen1": "https://m.media-amazon.com/images/I/71r132RgmmL._AC_UF894,1000_QL80_.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "FIFA 23 Xbox Series",
-    "precio": 30,
-    "imagen1": "https://m.media-amazon.com/images/I/81uM1VoIgPL.jpg"
+      "nombre": "FIFA 23 Xbox Series",
+      "precio": 30,
+      "imagen1": "https://m.media-amazon.com/images/I/81uM1VoIgPL.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "IXION",
-    "precio": 30,
-    "imagen1": "https://assets-prd.ignimgs.com/2022/06/30/ixion-button-1656613495229.jpg"
+      "nombre": "IXION",
+      "precio": 30,
+      "imagen1": "https://assets-prd.ignimgs.com/2022/06/30/ixion-button-1656613495229.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Crusader Kings 3",
-    "precio": 30,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/capsule_616x353.jpg?t=1683820745"
+      "nombre": "Crusader Kings 3",
+      "precio": 30,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1158310/capsule_616x353.jpg?t=1683820745",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Paw Patrol On A Roll",
-    "precio": 30,
-    "imagen1": "https://i.ytimg.com/vi/j1dhm20UZ9o/maxresdefault.jpg"
+      "nombre": "Paw Patrol On A Roll",
+      "precio": 30,
+      "imagen1": "https://i.ytimg.com/vi/j1dhm20UZ9o/maxresdefault.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Dying Light 2 Stay Human",
-    "precio": 30,
-    "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S3_2560x1440-f1dcd15207f091674615ccb4bd9dc3c7"
+      "nombre": "Dying Light 2 Stay Human",
+      "precio": 30,
+      "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/EGS_DyingLight2StayHuman_Techland_S3_2560x1440-f1dcd15207f091674615ccb4bd9dc3c7",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "New World",
-    "precio": 30,
-    "imagen1": "https://images.ctfassets.net/j95d1p8hsuun/29peK2k7Ic6FsPAVjHWs8W/06d3add40b23b20bbff215f6979267e8/NW_OPENGRAPH_1200x630.jpg"
+      "nombre": "New World",
+      "precio": 30,
+      "imagen1": "https://images.ctfassets.net/j95d1p8hsuun/29peK2k7Ic6FsPAVjHWs8W/06d3add40b23b20bbff215f6979267e8/NW_OPENGRAPH_1200x630.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "The Lord of the Rings Gollum",
-    "precio": 30,
-    "imagen1": "https://cdn1.epicgames.com/spt-assets/d20026139e774e57ab451e2a1b94c6e2/the-lord-of-the-rings--gollum-offer-1u5ei.png"
+      "nombre": "The Lord of the Rings Gollum",
+      "precio": 30,
+      "imagen1": "https://cdn1.epicgames.com/spt-assets/d20026139e774e57ab451e2a1b94c6e2/the-lord-of-the-rings--gollum-offer-1u5ei.png",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "The Quarry",
-    "precio": 30,
-    "imagen1": "https://m.media-amazon.com/images/M/MV5BOWExMDZkYWEtZjI0ZS00ZWRiLWE1ZDUtZTM3ZGQyOTRlMmZkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg"
+      "nombre": "The Quarry",
+      "precio": 30,
+      "imagen1": "https://m.media-amazon.com/images/M/MV5BOWExMDZkYWEtZjI0ZS00ZWRiLWE1ZDUtZTM3ZGQyOTRlMmZkXkEyXkFqcGdeQXVyMTA4NjE0NjEy._V1_.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "GTA 5 PS4",
-    "precio": 30,
-    "imagen1": "https://m.media-amazon.com/images/I/61+s8HfeFoL._AC_UF1000,1000_QL80_.jpg"
+      "nombre": "GTA 5 PS4",
+      "precio": 30,
+      "imagen1": "https://m.media-amazon.com/images/I/61+s8HfeFoL._AC_UF1000,1000_QL80_.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "The Last Of Us Part 2 PS4",
-    "precio": 30,
-    "imagen1": "https://i.ytimg.com/vi/eOiUtRF8k28/maxresdefault.jpg"
+      "nombre": "The Last Of Us Part 2 PS4",
+      "precio": 30,
+      "imagen1": "https://i.ytimg.com/vi/eOiUtRF8k28/maxresdefault.jpg",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "PlayStation Plus",
-    "precio": 30,
-    "imagen1": "https://blog.playstation.com/tachyon/2022/05/4cac05bf748db4d5adb2fdb08acc3ff6969f3a12.jpg?resize=1088%2C612&crop_strategy=smart"
+      "nombre": "PlayStation Plus",
+      "precio": 30,
+      "imagen1": "https://blog.playstation.com/tachyon/2022/05/4cac05bf748db4d5adb2fdb08acc3ff6969f3a12.jpg?resize=1088%2C612&crop_strategy=smart",
+      "precioV": "$30.00"
   },
   {
-    "nombre": "Hi-Fi RUSH",
-    "precio": 32.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Hi-Fi_Rush_cover_art.jpg/220px-Hi-Fi_Rush_cover_art.jpg"
+      "nombre": "Hi-Fi RUSH",
+      "precio": 32.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Hi-Fi_Rush_cover_art.jpg/220px-Hi-Fi_Rush_cover_art.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "JoJo’s Bizarre Adventure All-Star Battle R",
-    "precio": 32.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0821/tKixgw7BoRSwwhrGzrHARkLl.png"
+      "nombre": "JoJo\u2019s Bizarre Adventure All-Star Battle R",
+      "precio": 32.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0821/tKixgw7BoRSwwhrGzrHARkLl.png",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Ghost of Tsushima PS4",
-    "precio": 32.5,
-    "imagen1": "https://m.media-amazon.com/images/I/81XPzboI34S.jpg"
+      "nombre": "Ghost of Tsushima PS4",
+      "precio": 32.5,
+      "imagen1": "https://m.media-amazon.com/images/I/81XPzboI34S.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Pro Cycling Manager 2023",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/2063610/capsule_616x353.jpg?t=1681912077"
+      "nombre": "Pro Cycling Manager 2023",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/2063610/capsule_616x353.jpg?t=1681912077",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Hitman 3",
-    "precio": 32.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg"
+      "nombre": "Hitman 3",
+      "precio": 32.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/4/4b/Hitman_3_Packart.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Guild Wars 2 Path of Fire",
-    "precio": 32.5,
-    "imagen1": "https://i.ytimg.com/vi/ZhBf1Q6gTnY/maxresdefault.jpg"
+      "nombre": "Guild Wars 2 Path of Fire",
+      "precio": 32.5,
+      "imagen1": "https://i.ytimg.com/vi/ZhBf1Q6gTnY/maxresdefault.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Age of Empires 4",
-    "precio": 32.5,
-    "imagen1": "https://sm.ign.com/ign_es/screenshot/default/age-of-empires-iv-19-10-2021-16-07-18_vx4x.png"
+      "nombre": "Age of Empires 4",
+      "precio": 32.5,
+      "imagen1": "https://sm.ign.com/ign_es/screenshot/default/age-of-empires-iv-19-10-2021-16-07-18_vx4x.png",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Halo Infinite Campaign",
-    "precio": 32.5,
-    "imagen1": "https://wpassets.halowaypoint.com/wp-content/2022/06/CoOp-0.jpg"
+      "nombre": "Halo Infinite Campaign",
+      "precio": 32.5,
+      "imagen1": "https://wpassets.halowaypoint.com/wp-content/2022/06/CoOp-0.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Sekiro Shadows Die Twice Xbox One",
-    "precio": 32.5,
-    "imagen1": "https://m.media-amazon.com/images/I/81fMMFpI+sL.jpg"
+      "nombre": "Sekiro Shadows Die Twice Xbox One",
+      "precio": 32.5,
+      "imagen1": "https://m.media-amazon.com/images/I/81fMMFpI+sL.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Warhammer 40k Darktide",
-    "precio": 32.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/6/6f/Darktide_art.jpg"
+      "nombre": "Warhammer 40k Darktide",
+      "precio": 32.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/6/6f/Darktide_art.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "MotoGP 22",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1710580/capsule_616x353.jpg?t=1683646470"
+      "nombre": "MotoGP 22",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1710580/capsule_616x353.jpg?t=1683646470",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "World of Warcraft 60 days",
-    "precio": 32.5,
-    "imagen1": "https://cdn.cdkeys.com/media/catalog/product/w/o/wowc_1.jpg"
+      "nombre": "World of Warcraft 60 days",
+      "precio": 32.5,
+      "imagen1": "https://cdn.cdkeys.com/media/catalog/product/w/o/wowc_1.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Age of Wonders 4",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/61375e6a52534a1aa2d8ba6d46f9ee64/EGS_AgeofWonders4_TriumphStudios_S1_2560x1440-1320bec1672fe0554ee8c97ec5947ba3"
+      "nombre": "Age of Wonders 4",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/61375e6a52534a1aa2d8ba6d46f9ee64/EGS_AgeofWonders4_TriumphStudios_S1_2560x1440-1320bec1672fe0554ee8c97ec5947ba3",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Undisputed",
-    "precio": 32.5,
-    "imagen1": "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg"
+      "nombre": "Undisputed",
+      "precio": 32.5,
+      "imagen1": "https://m.media-amazon.com/images/M/MV5BMmE1NjQ0MDAtMTFhMC00OTgxLTg0ODktMGI2YmE2ZTU4YjhjXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_FMjpg_UX1000_.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Cyberpunk 2077",
-    "precio": 32.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg"
+      "nombre": "Cyberpunk 2077",
+      "precio": 32.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/9/9f/Cyberpunk_2077_box_art.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Disney Dreamlight Valley",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1401590/capsule_616x353.jpg?t=1685721355"
+      "nombre": "Disney Dreamlight Valley",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1401590/capsule_616x353.jpg?t=1685721355",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Mount and Blade 2 Bannerlord",
-    "precio": 32.5,
-    "imagen1": "https://images.gog-statics.com/0ddde0ba086e24bb7be90b2982af5662cc2aee20c54838a26b55c441f8676cda.jpg"
+      "nombre": "Mount and Blade 2 Bannerlord",
+      "precio": 32.5,
+      "imagen1": "https://images.gog-statics.com/0ddde0ba086e24bb7be90b2982af5662cc2aee20c54838a26b55c441f8676cda.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Dead by Daylight The 80s Suitcase",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightThe80sSuitcase_BehaviourInteractive_DLC_S1_2560x1440-03883e29d58fa8f2adbfe159bde73a7c"
+      "nombre": "Dead by Daylight The 80s Suitcase",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/611482b8586142cda48a0786eb8a127c/EGS_DeadbyDaylightThe80sSuitcase_BehaviourInteractive_DLC_S1_2560x1440-03883e29d58fa8f2adbfe159bde73a7c",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Red Matter 2 VR",
-    "precio": 32.5,
-    "imagen1": "https://assets-prd.ignimgs.com/2022/08/18/red-matter-2-blogroll-2-1660842510530.jpg"
+      "nombre": "Red Matter 2 VR",
+      "precio": 32.5,
+      "imagen1": "https://assets-prd.ignimgs.com/2022/08/18/red-matter-2-blogroll-2-1660842510530.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Dont Starve Together",
-    "precio": 32.5,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000019795/081425533fd5a75ad96eb4333f260edf690b91110402ac801e07fd332035da8e"
+      "nombre": "Dont Starve Together",
+      "precio": 32.5,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000019795/081425533fd5a75ad96eb4333f260edf690b91110402ac801e07fd332035da8e",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "SCUM",
-    "precio": 32.5,
-    "imagen1": "https://i.ytimg.com/vi/klUyanYbaqw/maxresdefault.jpg"
+      "nombre": "SCUM",
+      "precio": 32.5,
+      "imagen1": "https://i.ytimg.com/vi/klUyanYbaqw/maxresdefault.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Age of Empires 2 Definitive Edition",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1685053361"
+      "nombre": "Age of Empires 2 Definitive Edition",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1685053361",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "GTA 5",
-    "precio": 32.5,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png"
+      "nombre": "GTA 5",
+      "precio": 32.5,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/a/a5/Grand_Theft_Auto_V.png",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Conan Exiles",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68"
+      "nombre": "Conan Exiles",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/conanexiles/EGS_ConanExilesStandardEdition_Funcom_S1_2560x1440-5664d4d48160d882c4f1b25d96dd9b68",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "The Elder Scrolls Online",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_616x353.jpg?t=1684958334"
+      "nombre": "The Elder Scrolls Online",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/306130/capsule_616x353.jpg?t=1684958334",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Terraria",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860"
+      "nombre": "Terraria",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/105600/header.jpg?t=1666290860",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Disney Speedstorm",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1537830/capsule_616x353.jpg?t=1684839525"
+      "nombre": "Disney Speedstorm",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1537830/capsule_616x353.jpg?t=1684839525",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Payday 2",
-    "precio": 32.5,
-    "imagen1": "https://i.ytimg.com/vi/9_iJ7Cqiqrg/maxresdefault.jpg"
+      "nombre": "Payday 2",
+      "precio": 32.5,
+      "imagen1": "https://i.ytimg.com/vi/9_iJ7Cqiqrg/maxresdefault.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Phantom Brigade",
-    "precio": 32.5,
-    "imagen1": "https://cdn.vox-cdn.com/thumbor/KLn513GzY8xKGCr6wHVPpinlrKo=/0x0:1920x1080/1200x675/filters:focal(749x18:1055x324)/cdn.vox-cdn.com/uploads/chorus_image/image/72025622/mech_lineup.0.jpg"
+      "nombre": "Phantom Brigade",
+      "precio": 32.5,
+      "imagen1": "https://cdn.vox-cdn.com/thumbor/KLn513GzY8xKGCr6wHVPpinlrKo=/0x0:1920x1080/1200x675/filters:focal(749x18:1055x324)/cdn.vox-cdn.com/uploads/chorus_image/image/72025622/mech_lineup.0.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Monster Hunter World",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/582010/capsule_616x353.jpg?t=1661838392"
+      "nombre": "Monster Hunter World",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/582010/capsule_616x353.jpg?t=1661838392",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Civilization 5",
-    "precio": 32.5,
-    "imagen1": "https://assetsio.reedpopcdn.com/how-a-five-year-game-of-civilization-5-traced-personal-history-1549972428733.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+      "nombre": "Civilization 5",
+      "precio": 32.5,
+      "imagen1": "https://assetsio.reedpopcdn.com/how-a-five-year-game-of-civilization-5-traced-personal-history-1549972428733.jpg?width=1200&height=1200&fit=crop&quality=100&format=png&enable=upscale&auto=webp",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Stellaris",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg?t=1684936288"
+      "nombre": "Stellaris",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/281990/header.jpg?t=1684936288",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Farming Simulator 22",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938"
+      "nombre": "Farming Simulator 22",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/salesEvent/salesEvent/725818d8-9768-4a6a-a723-3039aaee1e23_1200x1600-3b6116d3fc1b566b71251d04bce27938",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Fallout 4",
-    "precio": 32.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png"
+      "nombre": "Fallout 4",
+      "precio": 32.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2500/4GZyUQ1bHTjICP6GCRG7f65n.png",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "FAR CRY 6",
-    "precio": 32.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/4MxzDZKZwtEWyMWZghvwd7bQ.jpg"
+      "nombre": "FAR CRY 6",
+      "precio": 32.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/img/rnd/202106/0722/4MxzDZKZwtEWyMWZghvwd7bQ.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Mortal Kombat 11",
-    "precio": 32.5,
-    "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/h/e/header_10_12_.jpg"
+      "nombre": "Mortal Kombat 11",
+      "precio": 32.5,
+      "imagen1": "https://cdn.cdkeys.com/700x700/media/catalog/product/h/e/header_10_12_.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Deep Rock Galactic",
-    "precio": 32.5,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.31367.13626568325427111.10c3cd94-9222-478a-b93e-3ab79133a2ee.a98eb2e3-689c-487e-8161-02d24979ae2c?q=90&w=480&h=270"
+      "nombre": "Deep Rock Galactic",
+      "precio": 32.5,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.31367.13626568325427111.10c3cd94-9222-478a-b93e-3ab79133a2ee.a98eb2e3-689c-487e-8161-02d24979ae2c?q=90&w=480&h=270",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Monster Hunter Rise",
-    "precio": 32.5,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000029016/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab"
+      "nombre": "Monster Hunter Rise",
+      "precio": 32.5,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000029016/b6ca09e9a7f6faf27641f62dabe64c6ff97b4f326aa478379e3c112aa28eb9ab",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Rainbow Six Siege",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_616x353.jpg?t=1685724234"
+      "nombre": "Rainbow Six Siege",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/359550/capsule_616x353.jpg?t=1685724234",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Age of Empires 2 Definitive Edition",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1685053361"
+      "nombre": "Age of Empires 2 Definitive Edition",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/813780/ss_c13d14fd11f3deb2fa5f592cceb98db3d48ef10b.1920x1080.jpg?t=1685053361",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Endless Dungeon",
-    "precio": 32.5,
-    "imagen1": "https://s.yimg.com/uu/api/res/1.2/sZrOG29KF20czhmFXilqcQ--~B/Zmk9ZmlsbDtoPTQ5Mjt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/0ca11960-d9f6-11ed-a6f7-cb020c06e7bc.cf.jpg"
+      "nombre": "Endless Dungeon",
+      "precio": 32.5,
+      "imagen1": "https://s.yimg.com/uu/api/res/1.2/sZrOG29KF20czhmFXilqcQ--~B/Zmk9ZmlsbDtoPTQ5Mjt3PTg3NTthcHBpZD15dGFjaHlvbg--/https://media-mbst-pub-ue1.s3.amazonaws.com/creatr-uploaded-images/2023-04/0ca11960-d9f6-11ed-a6f7-cb020c06e7bc.cf.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Cities Skylines",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg"
+      "nombre": "Cities Skylines",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/6009be9994c2409099588cde6f3a5ed0/offer/EGS_CitiesSkylines_ColossalOrder_S3-2560x1440-14df106873c918591e49bd9604841e83.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Europa Universalis 4",
-    "precio": 32.5,
-    "imagen1": "https://cdn.mos.cms.futurecdn.net/dbda4b0f88c1f64d88532f130275addb.jpg"
+      "nombre": "Europa Universalis 4",
+      "precio": 32.5,
+      "imagen1": "https://cdn.mos.cms.futurecdn.net/dbda4b0f88c1f64d88532f130275addb.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Black Desert Online",
-    "precio": 32.5,
-    "imagen1": "https://m.media-amazon.com/images/I/A1fnUEYCOeL._SX540_.jpg"
+      "nombre": "Black Desert Online",
+      "precio": 32.5,
+      "imagen1": "https://m.media-amazon.com/images/I/A1fnUEYCOeL._SX540_.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Skyrim Special Edition",
-    "precio": 32.5,
-    "imagen1": "https://i.ytimg.com/vi/lTjRZ__-278/maxresdefault.jpg"
+      "nombre": "Skyrim Special Edition",
+      "precio": 32.5,
+      "imagen1": "https://i.ytimg.com/vi/lTjRZ__-278/maxresdefault.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Tunic",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/553420/capsule_616x353.jpg?t=1649107473"
+      "nombre": "Tunic",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/553420/capsule_616x353.jpg?t=1649107473",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Tiny Tinaâ€™s Wonderlands",
-    "precio": 32.5,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0718/g0RjmnzZIJ7sdthShvsxZa49.jpg"
+      "nombre": "Tiny Tina\u00e2\u20ac\u2122s Wonderlands",
+      "precio": 32.5,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202105/0718/g0RjmnzZIJ7sdthShvsxZa49.jpg",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "The Outlast Trials",
-    "precio": 32.5,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1304930/capsule_616x353.jpg?t=1684452998"
+      "nombre": "The Outlast Trials",
+      "precio": 32.5,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1304930/capsule_616x353.jpg?t=1684452998",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "The Witcher 3 Wild Hunt",
-    "precio": 32.5,
-    "imagen1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f"
+      "nombre": "The Witcher 3 Wild Hunt",
+      "precio": 32.5,
+      "imagen1": "https://cdn1.epicgames.com/offer/14ee004dadc142faaaece5a6270fb628/EGS_TheWitcher3WildHuntCompleteEdition_CDPROJEKTRED_S1_2560x1440-82eb5cf8f725e329d3194920c0c0b64f",
+      "precioV": "$32.50"
   },
   {
-    "nombre": "Sniper Elite 5",
-    "precio": 35,
-    "imagen1": "https://assets.rebellion.com/wp-content/uploads/2022/01/28141442/SE5_Render_CoverArt_FINAL_Optimized.jpg"
+      "nombre": "Sniper Elite 5",
+      "precio": 35,
+      "imagen1": "https://assets.rebellion.com/wp-content/uploads/2022/01/28141442/SE5_Render_CoverArt_FINAL_Optimized.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Ghost Trick Phantom Detective",
-    "precio": 35,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000053641/995b2ea418d9d74e602e5614afe5731dff287c7423c49310d57ab2fc54a74998"
+      "nombre": "Ghost Trick Phantom Detective",
+      "precio": 35,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000053641/995b2ea418d9d74e602e5614afe5731dff287c7423c49310d57ab2fc54a74998",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Marvel’s Midnight Suns",
-    "precio": 35,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/4/42/Marvel%27s_Midnight_Suns.jpg"
+      "nombre": "Marvel\u2019s Midnight Suns",
+      "precio": 35,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/4/42/Marvel%27s_Midnight_Suns.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Persona 5 Royal Xbox Series",
-    "precio": 35,
-    "imagen1": "https://m.media-amazon.com/images/I/81-TKnIr7lL.jpg"
+      "nombre": "Persona 5 Royal Xbox Series",
+      "precio": 35,
+      "imagen1": "https://m.media-amazon.com/images/I/81-TKnIr7lL.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Ready Or Not",
-    "precio": 35,
-    "imagen1": "https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg"
+      "nombre": "Ready Or Not",
+      "precio": 35,
+      "imagen1": "https://m.media-amazon.com/images/M/MV5BYzBkMzAyMDUtZTFkZS00OWUyLTgwM2ItNGI3MTQ5NzA3NTVkXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "A Plague Tale Requiem",
-    "precio": 35,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1182900/capsule_616x353.jpg?t=1678973757"
+      "nombre": "A Plague Tale Requiem",
+      "precio": 35,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1182900/capsule_616x353.jpg?t=1678973757",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "The Callisto Protocol Xbox Series",
-    "precio": 35,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509774_sd.jpg;maxHeight=640;maxWidth=550"
+      "nombre": "The Callisto Protocol Xbox Series",
+      "precio": 35,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509774_sd.jpg;maxHeight=640;maxWidth=550",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Horizon Forbidden West PS5",
-    "precio": 35,
-    "imagen1": "https://m.media-amazon.com/images/I/81MKgl8cZEL.jpg"
+      "nombre": "Horizon Forbidden West PS5",
+      "precio": 35,
+      "imagen1": "https://m.media-amazon.com/images/I/81MKgl8cZEL.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Dying Light 2 Stay Human Xbox Series",
-    "precio": 35,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6255/6255150_sd.jpg"
+      "nombre": "Dying Light 2 Stay Human Xbox Series",
+      "precio": 35,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6255/6255150_sd.jpg",
+      "precioV": "$35.00"
   },
   {
-    "nombre": "Marvels Spider-Man Miles Morales",
-    "precio": 45,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png"
+      "nombre": "Marvels Spider-Man Miles Morales",
+      "precio": 45,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1020/T45iRN1bhiWcJUzST6UFGBvO.png",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "World of Warcraft Dragonflight",
-    "precio": 45,
-    "imagen1": "https://assets-prd.ignimgs.com/2022/04/19/wow-dragonflight-button-1-1650398895381.jpg"
+      "nombre": "World of Warcraft Dragonflight",
+      "precio": 45,
+      "imagen1": "https://assets-prd.ignimgs.com/2022/04/19/wow-dragonflight-button-1-1650398895381.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Uncharted Legacy of Thieves Collection",
-    "precio": 45,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png"
+      "nombre": "Uncharted Legacy of Thieves Collection",
+      "precio": 45,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202111/2000/gTUWTlvPHzxFJ2JAxtDyI2eS.png",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Football Manager 2023",
-    "precio": 45,
-    "imagen1": "https://cdn1.epicgames.com/offer/5c7a78e0c4d640898d690c5e38c0392f/EGS_FootballManager2023_SportsInteractive_S1_2560x1440-28187c5e17149ab967b8f3d3dd56a796"
+      "nombre": "Football Manager 2023",
+      "precio": 45,
+      "imagen1": "https://cdn1.epicgames.com/offer/5c7a78e0c4d640898d690c5e38c0392f/EGS_FootballManager2023_SportsInteractive_S1_2560x1440-28187c5e17149ab967b8f3d3dd56a796",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Just Dance 2023 Nintendo Switch",
-    "precio": 45,
-    "imagen1": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_JustDance2023_image1600w.jpg"
+      "nombre": "Just Dance 2023 Nintendo Switch",
+      "precio": 45,
+      "imagen1": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_JustDance2023_image1600w.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "RimWorld",
-    "precio": 45,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_616x353.jpg?t=1676391313"
+      "nombre": "RimWorld",
+      "precio": 45,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/294100/capsule_616x353.jpg?t=1676391313",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "TT Isle of Man Ride on the Edge 3",
-    "precio": 45,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1924170/capsule_616x353.jpg?t=1683837745"
+      "nombre": "TT Isle of Man Ride on the Edge 3",
+      "precio": 45,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1924170/capsule_616x353.jpg?t=1683837745",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "War Hospital",
-    "precio": 45,
-    "imagen1": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/03/25/war-hospital-has-players-experience-the-horrors-of-war-as-a-doctor_feature.jpg"
+      "nombre": "War Hospital",
+      "precio": 45,
+      "imagen1": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2021/03/25/war-hospital-has-players-experience-the-horrors-of-war-as-a-doctor_feature.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Sackboy A Big Adventure",
-    "precio": 45,
-    "imagen1": "https://i.ytimg.com/vi/MAaEqyE_Hfg/maxresdefault.jpg"
+      "nombre": "Sackboy A Big Adventure",
+      "precio": 45,
+      "imagen1": "https://i.ytimg.com/vi/MAaEqyE_Hfg/maxresdefault.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Farthest Frontier",
-    "precio": 45,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1044720/capsule_616x353.jpg?t=1660235278"
+      "nombre": "Farthest Frontier",
+      "precio": 45,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1044720/capsule_616x353.jpg?t=1660235278",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Forza Horizon 5 Xbox One",
-    "precio": 45,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6466/6466929_ra.jpg"
+      "nombre": "Forza Horizon 5 Xbox One",
+      "precio": 45,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6466/6466929_ra.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Forza Horizon 5",
-    "precio": 45,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1683059745"
+      "nombre": "Forza Horizon 5",
+      "precio": 45,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1551360/capsule_616x353.jpg?t=1683059745",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Wartales",
-    "precio": 45,
-    "imagen1": "https://cdn.mos.cms.futurecdn.net/HSQuWGgUKthcHtsTRrmEtL.jpg"
+      "nombre": "Wartales",
+      "precio": 45,
+      "imagen1": "https://cdn.mos.cms.futurecdn.net/HSQuWGgUKthcHtsTRrmEtL.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Minecraft Nintendo Switch",
-    "precio": 45,
-    "imagen1": "https://m.media-amazon.com/images/I/81gJUSx-TjL.jpg"
+      "nombre": "Minecraft Nintendo Switch",
+      "precio": 45,
+      "imagen1": "https://m.media-amazon.com/images/I/81gJUSx-TjL.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Total War Warhammer 3",
-    "precio": 45,
-    "imagen1": "https://content.totalwar.com/total-war/com.totalwar.www2019/uploads/2022/06/09143022/ie_screenshots_kvg_1080p.jpg"
+      "nombre": "Total War Warhammer 3",
+      "precio": 45,
+      "imagen1": "https://content.totalwar.com/total-war/com.totalwar.www2019/uploads/2022/06/09143022/ie_screenshots_kvg_1080p.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Red Dead Redemption 2 PS5",
-    "precio": 45,
-    "imagen1": "https://i.ytimg.com/vi/bSYGrExlbu8/maxresdefault.jpg"
+      "nombre": "Red Dead Redemption 2 PS5",
+      "precio": 45,
+      "imagen1": "https://i.ytimg.com/vi/bSYGrExlbu8/maxresdefault.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Dwarf Fortress",
-    "precio": 45,
-    "imagen1": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/12/crystalspike3.jpg"
+      "nombre": "Dwarf Fortress",
+      "precio": 45,
+      "imagen1": "https://d2eehagpk5cl65.cloudfront.net/img/q60/uploads/2022/12/crystalspike3.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Aliens Dark Descent",
-    "precio": 45,
-    "imagen1": "https://i.ytimg.com/vi/RUvMwrHIxwo/maxresdefault.jpg"
+      "nombre": "Aliens Dark Descent",
+      "precio": 45,
+      "imagen1": "https://i.ytimg.com/vi/RUvMwrHIxwo/maxresdefault.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Stray",
-    "precio": 45,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png"
+      "nombre": "Stray",
+      "precio": 45,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0300/E2vZwVaDJbhLZpJo7Q10IyYo.png",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "New Super Mario Bros U Deluxe Nintendo Switch",
-    "precio": 45,
-    "imagen1": "https://m.media-amazon.com/images/I/813JPZr+pCL._AC_UF1000,1000_QL80_.jpg"
+      "nombre": "New Super Mario Bros U Deluxe Nintendo Switch",
+      "precio": 45,
+      "imagen1": "https://m.media-amazon.com/images/I/813JPZr+pCL._AC_UF1000,1000_QL80_.jpg",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Five Nights at Freddy's VR Help Wanted",
-    "precio": 45,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/732690/capsule_616x353.jpg?t=1673028167"
+      "nombre": "Five Nights at Freddy's VR Help Wanted",
+      "precio": 45,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/732690/capsule_616x353.jpg?t=1673028167",
+      "precioV": "$45.00"
   },
   {
-    "nombre": "Dead Island 2",
-    "precio": 50,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.26610.66080721822734920.910bec42-dd7c-4bcf-9acb-d97e1b5501f0.5a916954-24f8-4f6e-95e7-74cff29199d9"
+      "nombre": "Dead Island 2",
+      "precio": 50,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.26610.66080721822734920.910bec42-dd7c-4bcf-9acb-d97e1b5501f0.5a916954-24f8-4f6e-95e7-74cff29199d9",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Escape from Tarkov",
-    "precio": 50,
-    "imagen1": "https://pbs.twimg.com/profile_images/1365050429869088781/87pRXjFy_400x400.jpg"
+      "nombre": "Escape from Tarkov",
+      "precio": 50,
+      "imagen1": "https://pbs.twimg.com/profile_images/1365050429869088781/87pRXjFy_400x400.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Guilty Gear Strive",
-    "precio": 50,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/7/7d/Guilty_Gear_Strive.jpg"
+      "nombre": "Guilty Gear Strive",
+      "precio": 50,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/7/7d/Guilty_Gear_Strive.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "BONELAB VR",
-    "precio": 50,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1592190/capsule_616x353.jpg?t=1672959398"
+      "nombre": "BONELAB VR",
+      "precio": 50,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1592190/capsule_616x353.jpg?t=1672959398",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Forspoken PS5",
-    "precio": 50,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5"
+      "nombre": "Forspoken PS5",
+      "precio": 50,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11179565/Forspoken---PlayStation-5",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Call of Duty Modern Warfare 2 Xbox Series",
-    "precio": 50,
-    "imagen1": "https://m.media-amazon.com/images/I/81YeBLA3U4L._AC_UF1000,1000_QL80_.jpg"
+      "nombre": "Call of Duty Modern Warfare 2 Xbox Series",
+      "precio": 50,
+      "imagen1": "https://m.media-amazon.com/images/I/81YeBLA3U4L._AC_UF1000,1000_QL80_.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "The Elder Scrolls Online Necrom",
-    "precio": 50,
-    "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/01/U38_Necrom_Announce_keyart_rgb_3840x2160_Final-0ab6969e88362e86cfb6.jpg?resize=1200%2C675&ssl=1"
+      "nombre": "The Elder Scrolls Online Necrom",
+      "precio": 50,
+      "imagen1": "https://i0.wp.com/news.xbox.com/en-us/wp-content/uploads/sites/2/2023/01/U38_Necrom_Announce_keyart_rgb_3840x2160_Final-0ab6969e88362e86cfb6.jpg?resize=1200%2C675&ssl=1",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "One Piece Odyssey PS5",
-    "precio": 50,
-    "imagen1": "https://m.media-amazon.com/images/I/616JwJBbEBL.jpg"
+      "nombre": "One Piece Odyssey PS5",
+      "precio": 50,
+      "imagen1": "https://m.media-amazon.com/images/I/616JwJBbEBL.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "The Callisto Protocol PS5",
-    "precio": 50,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509773_sd.jpg"
+      "nombre": "The Callisto Protocol PS5",
+      "precio": 50,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6509/6509773_sd.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Miasma Chronicles",
-    "precio": 50,
-    "imagen1": "https://live.staticflickr.com/65535/52751738526_3bfd981a1c_h.jpg"
+      "nombre": "Miasma Chronicles",
+      "precio": 50,
+      "imagen1": "https://live.staticflickr.com/65535/52751738526_3bfd981a1c_h.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "The Last of Us Part I",
-    "precio": 50,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png"
+      "nombre": "The Last of Us Part I",
+      "precio": 50,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202206/0720/eEczyEMDd2BLa3dtkGJVE9Id.png",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Park Beyond",
-    "precio": 50,
-    "imagen1": "https://static.bandainamcoent.eu/high/park-beyond/01-news/park-beyond-announcement.jpg"
+      "nombre": "Park Beyond",
+      "precio": 50,
+      "imagen1": "https://static.bandainamcoent.eu/high/park-beyond/01-news/park-beyond-announcement.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Redfall",
-    "precio": 50,
-    "imagen1": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUGDPGeTh5Uo/v1/1200x-1.jpg"
+      "nombre": "Redfall",
+      "precio": 50,
+      "imagen1": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iUGDPGeTh5Uo/v1/1200x-1.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Kerbal Space Program 2",
-    "precio": 50,
-    "imagen1": "https://images.ctfassets.net/wn7ipiv9ue5v/14tYDFOT5NvA5OeJFETqSQ/b9891a51b7afbd017bdf5bbb047ba365/MQQyWuII.jpeg"
+      "nombre": "Kerbal Space Program 2",
+      "precio": 50,
+      "imagen1": "https://images.ctfassets.net/wn7ipiv9ue5v/14tYDFOT5NvA5OeJFETqSQ/b9891a51b7afbd017bdf5bbb047ba365/MQQyWuII.jpeg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Factorio",
-    "precio": 50,
-    "imagen1": "https://i.ytimg.com/vi/J8SBp4SyvLc/maxresdefault.jpg"
+      "nombre": "Factorio",
+      "precio": 50,
+      "imagen1": "https://i.ytimg.com/vi/J8SBp4SyvLc/maxresdefault.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Metroid Prime Remastered Nintendo Switch",
-    "precio": 50,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7"
+      "nombre": "Metroid Prime Remastered Nintendo Switch",
+      "precio": 50,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000063709/32b85837beea0eee31220a59e247219662de4011f7a8c18fce61cf99a4933eb7",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "WWE 2K23",
-    "precio": 50,
-    "imagen1": "https://assets.2k.com/1a6ngf98576c/7y1nVVDuxTlk06mZILbwSL/605f874a4e3f20178b7662e7ec6bece3/WWE23-WEBSITE-MODULE3-SKU-STD-WWE23.jpg"
+      "nombre": "WWE 2K23",
+      "precio": 50,
+      "imagen1": "https://assets.2k.com/1a6ngf98576c/7y1nVVDuxTlk06mZILbwSL/605f874a4e3f20178b7662e7ec6bece3/WWE23-WEBSITE-MODULE3-SKU-STD-WWE23.jpg",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "Dead Space",
-    "precio": 50,
-    "imagen1": "https://pbs.twimg.com/media/FrrMy-eXwAAhFwn?format=jpg&name=large"
+      "nombre": "Dead Space",
+      "precio": 50,
+      "imagen1": "https://pbs.twimg.com/media/FrrMy-eXwAAhFwn?format=jpg&name=large",
+      "precioV": "$50.00"
   },
   {
-    "nombre": "MotoGP 23",
-    "precio": 55,
-    "imagen1": "https://motogpvideogame.com/wp-content/themes/motogp23/public/images/motogp23-keyart@2x.5fca83.jpg"
+      "nombre": "MotoGP 23",
+      "precio": 55,
+      "imagen1": "https://motogpvideogame.com/wp-content/themes/motogp23/public/images/motogp23-keyart@2x.5fca83.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Nintendo Switch Sports Nintendo Switch",
-    "precio": 55,
-    "imagen1": "https://m.media-amazon.com/images/I/61WA1YOg4lL.jpg"
+      "nombre": "Nintendo Switch Sports Nintendo Switch",
+      "precio": 55,
+      "imagen1": "https://m.media-amazon.com/images/I/61WA1YOg4lL.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Railway Empire 2",
-    "precio": 55,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1644320/capsule_616x353.jpg?t=1685605101"
+      "nombre": "Railway Empire 2",
+      "precio": 55,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1644320/capsule_616x353.jpg?t=1685605101",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Returnal",
-    "precio": 55,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1621/4ItSbqJE88H019Ua3WBQKLF8.png"
+      "nombre": "Returnal",
+      "precio": 55,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1621/4ItSbqJE88H019Ua3WBQKLF8.png",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Octopath Traveler 2",
-    "precio": 55,
-    "imagen1": "https://assets-prd.ignimgs.com/2022/09/13/octopath-traveler-2-button-fin-1663082963956.jpg?width=300&crop=1%3A1%2Csmart"
+      "nombre": "Octopath Traveler 2",
+      "precio": 55,
+      "imagen1": "https://assets-prd.ignimgs.com/2022/09/13/octopath-traveler-2-button-fin-1663082963956.jpg?width=300&crop=1%3A1%2Csmart",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Dead Space Remake PS5",
-    "precio": 55,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MP0I6Folca9wOgs9A39wwvj1.png"
+      "nombre": "Dead Space Remake PS5",
+      "precio": 55,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202209/1918/MP0I6Folca9wOgs9A39wwvj1.png",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "God of War Ragnarok PS4",
-    "precio": 55,
-    "imagen1": "https://i5.walmartimages.com/asr/6ac73644-9ecc-4ff8-a384-535528abd242.9f60c6fd4c783848cf01433fa6d37ca2.jpeg"
+      "nombre": "God of War Ragnarok PS4",
+      "precio": 55,
+      "imagen1": "https://i5.walmartimages.com/asr/6ac73644-9ecc-4ff8-a384-535528abd242.9f60c6fd4c783848cf01433fa6d37ca2.jpeg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Dead Space Remake Xbox Series",
-    "precio": 55,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.25575.13710698285394664.b69d40fa-3b9c-47c8-b252-b52cae59523c.f7b6e42a-3b1a-437f-977b-dfa2cf28911e?w=400&h=600"
+      "nombre": "Dead Space Remake Xbox Series",
+      "precio": 55,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.25575.13710698285394664.b69d40fa-3b9c-47c8-b252-b52cae59523c.f7b6e42a-3b1a-437f-977b-dfa2cf28911e?w=400&h=600",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Wo Long Fallen Dynasty",
-    "precio": 55,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/c/c6/Wo_Long_Fallen_Dynasty_cover.jpeg"
+      "nombre": "Wo Long Fallen Dynasty",
+      "precio": 55,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/c/c6/Wo_Long_Fallen_Dynasty_cover.jpeg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Need For Speed Unbound PS5",
-    "precio": 55,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/4zIDTVwCOcyU0B51RywhFNE0.jpg"
+      "nombre": "Need For Speed Unbound PS5",
+      "precio": 55,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202211/2212/4zIDTVwCOcyU0B51RywhFNE0.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Sonic Frontiers",
-    "precio": 55,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/capsule_616x353.jpg?t=1684845884"
+      "nombre": "Sonic Frontiers",
+      "precio": 55,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1237320/capsule_616x353.jpg?t=1684845884",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Rust",
-    "precio": 55,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1678981332"
+      "nombre": "Rust",
+      "precio": 55,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1678981332",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Grounded",
-    "precio": 55,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/962130/capsule_616x353.jpg?t=1684963474"
+      "nombre": "Grounded",
+      "precio": 55,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/962130/capsule_616x353.jpg?t=1684963474",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Hogwarts Legacy",
-    "precio": 55,
-    "imagen1": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-2baf3188eb3c1aa248bcc1af6a927b7e"
+      "nombre": "Hogwarts Legacy",
+      "precio": 55,
+      "imagen1": "https://cdn1.epicgames.com/offer/e97659b501af4e3981d5430dad170911/EGS_HogwartsLegacy_AvalancheSoftware_S1_2560x1440-2baf3188eb3c1aa248bcc1af6a927b7e",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Microsoft Flight Simulator",
-    "precio": 55,
-    "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2020/07/MicrosoftFlightSimulator_KeyArt_Hero.jpg"
+      "nombre": "Microsoft Flight Simulator",
+      "precio": 55,
+      "imagen1": "https://news.xbox.com/en-us/wp-content/uploads/sites/2/2020/07/MicrosoftFlightSimulator_KeyArt_Hero.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "EA Sports PGA Tour",
-    "precio": 55,
-    "imagen1": "https://media.contentapi.ea.com/content/dam/ea/pga-tour/news/images/2023/01/pgatour-thumbnail-gameplay3-1.jpg.adapt.crop191x100.628p.jpg"
+      "nombre": "EA Sports PGA Tour",
+      "precio": 55,
+      "imagen1": "https://media.contentapi.ea.com/content/dam/ea/pga-tour/news/images/2023/01/pgatour-thumbnail-gameplay3-1.jpg.adapt.crop191x100.628p.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Sekiro Shadows Die Twice PS4",
-    "precio": 55,
-    "imagen1": "https://m.media-amazon.com/images/I/81DK-nYLmLL.jpg"
+      "nombre": "Sekiro Shadows Die Twice PS4",
+      "precio": 55,
+      "imagen1": "https://m.media-amazon.com/images/I/81DK-nYLmLL.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Cyberpunk 2077 PS5",
-    "precio": 55,
-    "imagen1": "https://i.ytimg.com/vi/45dsUd8vuvU/maxresdefault.jpg"
+      "nombre": "Cyberpunk 2077 PS5",
+      "precio": 55,
+      "imagen1": "https://i.ytimg.com/vi/45dsUd8vuvU/maxresdefault.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Resident Evil 4 Xbox Series",
-    "precio": 55,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6524/6524189_sd.jpg"
+      "nombre": "Resident Evil 4 Xbox Series",
+      "precio": 55,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6524/6524189_sd.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Resident Evil 4",
-    "precio": 55,
-    "imagen1": "https://i.ytimg.com/vi/kV7YaA0MKm0/maxresdefault.jpg"
+      "nombre": "Resident Evil 4",
+      "precio": 55,
+      "imagen1": "https://i.ytimg.com/vi/kV7YaA0MKm0/maxresdefault.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "DNF Duel",
-    "precio": 55,
-    "imagen1": "https://www.arcsystemworks.com/wp-content/uploads/2023/01/dd_kv-2.png"
+      "nombre": "DNF Duel",
+      "precio": 55,
+      "imagen1": "https://www.arcsystemworks.com/wp-content/uploads/2023/01/dd_kv-2.png",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Atlas Fallen",
-    "precio": 55,
-    "imagen1": "https://cdn.focus-home.com/fhi-fastforward-admin/custom/atlas-fallen/headline.jpg"
+      "nombre": "Atlas Fallen",
+      "precio": 55,
+      "imagen1": "https://cdn.focus-home.com/fhi-fastforward-admin/custom/atlas-fallen/headline.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "FIFA 23 PS5",
-    "precio": 55,
-    "imagen1": "https://m.media-amazon.com/images/I/81ef53W7PlL.jpg"
+      "nombre": "FIFA 23 PS5",
+      "precio": 55,
+      "imagen1": "https://m.media-amazon.com/images/I/81ef53W7PlL.jpg",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Assassin’s Creed Ezio Collection Nintendo Switch",
-    "precio": 55,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11183826/Assassins-Creed-Ezio-Collection---Nintendo-Switch?$pdp$"
+      "nombre": "Assassin\u2019s Creed Ezio Collection Nintendo Switch",
+      "precio": 55,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11183826/Assassins-Creed-Ezio-Collection---Nintendo-Switch?$pdp$",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "It Takes Two Nintendo Switch",
-    "precio": 55,
-    "imagen1": "https://media.gamestop.com/i/gamestop/11112939-6c0948f1"
+      "nombre": "It Takes Two Nintendo Switch",
+      "precio": 55,
+      "imagen1": "https://media.gamestop.com/i/gamestop/11112939-6c0948f1",
+      "precioV": "$55.00"
   },
   {
-    "nombre": "Ratchet & Clank Rift Apart PS5",
-    "precio": 60,
-    "imagen1": "https://m.media-amazon.com/images/I/8163O-hji+S.jpg"
+      "nombre": "Ratchet & Clank Rift Apart PS5",
+      "precio": 60,
+      "imagen1": "https://m.media-amazon.com/images/I/8163O-hji+S.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Armored Core 6",
-    "precio": 60,
-    "imagen1": "https://p325k7wa.twic.pics/high/armored-core/armored-core-vi-fires-of-rubicon/00-page-setup/acvifor-header-mobile-new.jpg?twic=v1/resize=760/step=10/quality=80"
+      "nombre": "Armored Core 6",
+      "precio": 60,
+      "imagen1": "https://p325k7wa.twic.pics/high/armored-core/armored-core-vi-fires-of-rubicon/00-page-setup/acvifor-header-mobile-new.jpg?twic=v1/resize=760/step=10/quality=80",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Street Fighter 6",
-    "precio": 60,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png"
+      "nombre": "Street Fighter 6",
+      "precio": 60,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Hogwarts Legacy Xbox Series",
-    "precio": 60,
-    "imagen1": "https://store-images.s-microsoft.com/image/apps.11179.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.5e9896f6-415e-4233-89da-d05cb61e48a6"
+      "nombre": "Hogwarts Legacy Xbox Series",
+      "precio": 60,
+      "imagen1": "https://store-images.s-microsoft.com/image/apps.11179.13668282042107954.874f4821-1931-4173-aee3-0eed5c78ce55.5e9896f6-415e-4233-89da-d05cb61e48a6",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Elden Ring Xbox Series",
-    "precio": 60,
-    "imagen1": "https://m.media-amazon.com/images/I/81AXuMBqy9L.jpg"
+      "nombre": "Elden Ring Xbox Series",
+      "precio": 60,
+      "imagen1": "https://m.media-amazon.com/images/I/81AXuMBqy9L.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Elden Ring PS5",
-    "precio": 60,
-    "imagen1": "https://m.media-amazon.com/images/I/71ApMdd+7bL.jpg"
+      "nombre": "Elden Ring PS5",
+      "precio": 60,
+      "imagen1": "https://m.media-amazon.com/images/I/71ApMdd+7bL.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Horizon Call of the Mountain PS5",
-    "precio": 60,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0615/eicVspHDlt11H1xtnsw5dgkz.png"
+      "nombre": "Horizon Call of the Mountain PS5",
+      "precio": 60,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202207/0615/eicVspHDlt11H1xtnsw5dgkz.png",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "LEGO 2K Drive",
-    "precio": 60,
-    "imagen1": "https://assets.2k.com/1a6ngf98576c/NEHiHfvoJZL0IwSYmm05a/852ad9ec802447c0e065175a1405d7d3/Awesome_Edition_FOB_425_x_535px.jpg"
+      "nombre": "LEGO 2K Drive",
+      "precio": 60,
+      "imagen1": "https://assets.2k.com/1a6ngf98576c/NEHiHfvoJZL0IwSYmm05a/852ad9ec802447c0e065175a1405d7d3/Awesome_Edition_FOB_425_x_535px.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Forspoken",
-    "precio": 60,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/AYCfCMQwkY42jPw9hpfjMgvl.jpg"
+      "nombre": "Forspoken",
+      "precio": 60,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202203/0922/AYCfCMQwkY42jPw9hpfjMgvl.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Star Wars Jedi Survivor",
-    "precio": 60,
-    "imagen1": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd"
+      "nombre": "Star Wars Jedi Survivor",
+      "precio": 60,
+      "imagen1": "https://cdn1.epicgames.com/offer/5a2ea5980ac147c195775039195a3081/EGS_STARWARSJediSurvivorStandardEdition_RespawnEntertainment_S2_1200x1600-fd090aecb23a065b29ea101939798edd",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Atomic Heart",
-    "precio": 60,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/d/d3/Atomic_Heart_cover.jpg"
+      "nombre": "Atomic Heart",
+      "precio": 60,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/d/d3/Atomic_Heart_cover.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Assassin’s Creed Mirage",
-    "precio": 60,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Assassin%27s_Creed_Mirage_cover.jpeg/220px-Assassin%27s_Creed_Mirage_cover.jpeg"
+      "nombre": "Assassin\u2019s Creed Mirage",
+      "precio": 60,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/thumb/2/23/Assassin%27s_Creed_Mirage_cover.jpeg/220px-Assassin%27s_Creed_Mirage_cover.jpeg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Luigis Mansion 3 Nintendo Switch",
-    "precio": 60,
-    "imagen1": "https://m.media-amazon.com/images/I/81-FD3tzUlL._AC_UF1000,1000_QL80_.jpg"
+      "nombre": "Luigis Mansion 3 Nintendo Switch",
+      "precio": 60,
+      "imagen1": "https://m.media-amazon.com/images/I/81-FD3tzUlL._AC_UF1000,1000_QL80_.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Super Mario Odyssey Nintendo Switch",
-    "precio": 60,
-    "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5"
+      "nombre": "Super Mario Odyssey Nintendo Switch",
+      "precio": 60,
+      "imagen1": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000001130/c42553b4fd0312c31e70ec7468c6c9bccd739f340152925b9600631f2d29f8b5",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Star Wars Jedi Survivor Xbox Series",
-    "precio": 60,
-    "imagen1": "https://m.media-amazon.com/images/I/61UsW1AtZBL._AC_UF1000,1000_QL80_.jpg"
+      "nombre": "Star Wars Jedi Survivor Xbox Series",
+      "precio": 60,
+      "imagen1": "https://m.media-amazon.com/images/I/61UsW1AtZBL._AC_UF1000,1000_QL80_.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Call of Duty Modern Warfare 2 PS5",
-    "precio": 60,
-    "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg"
+      "nombre": "Call of Duty Modern Warfare 2 PS5",
+      "precio": 60,
+      "imagen1": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/iQGgKYUg9YwjPVNM0kE8jeRN.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Exoprimal",
-    "precio": 60,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/3/34/Exoprimal_cover_art.jpg"
+      "nombre": "Exoprimal",
+      "precio": 60,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/3/34/Exoprimal_cover_art.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "THE KING OF FIGHTERS 15",
-    "precio": 60,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/capsule_616x353.jpg?t=1653013657"
+      "nombre": "THE KING OF FIGHTERS 15",
+      "precio": 60,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1498570/capsule_616x353.jpg?t=1653013657",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Immortals of Aveum",
-    "precio": 60,
-    "imagen1": "https://ascendantstudios.com/wp-content/uploads/2023/04/std-keyart-2560x1440-1.jpg"
+      "nombre": "Immortals of Aveum",
+      "precio": 60,
+      "imagen1": "https://ascendantstudios.com/wp-content/uploads/2023/04/std-keyart-2560x1440-1.jpg",
+      "precioV": "$60.00"
   },
   {
-    "nombre": "Dead Island 2 Xbox Series",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/81hQumhfFeL.jpg"
+      "nombre": "Dead Island 2 Xbox Series",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/81hQumhfFeL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Mario Kart 8 Deluxe Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/91Ya9j5XUrL.jpg"
+      "nombre": "Mario Kart 8 Deluxe Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/91Ya9j5XUrL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "The Last of Us Part I PS5",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/81l41iKPF3L.jpg"
+      "nombre": "The Last of Us Part I PS5",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/81l41iKPF3L.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "PS Plus 12 Months",
-    "precio": 65,
-    "imagen1": "https://cdn.cdkeys.com/media/catalog/product/p/l/playstation-plus-12-month-subscription-cover-cdkeys-us.jpg"
+      "nombre": "PS Plus 12 Months",
+      "precio": 65,
+      "imagen1": "https://cdn.cdkeys.com/media/catalog/product/p/l/playstation-plus-12-month-subscription-cover-cdkeys-us.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Pokemon Violet Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/71ldCNgOCCL.jpg"
+      "nombre": "Pokemon Violet Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/71ldCNgOCCL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "CyberLink PowerDirector 16 Ultimate",
-    "precio": 65,
-    "imagen1": "https://cdn.cloudflare.steamstatic.com/steam/apps/679570/header.jpg?t=1574186443"
+      "nombre": "CyberLink PowerDirector 16 Ultimate",
+      "precio": 65,
+      "imagen1": "https://cdn.cloudflare.steamstatic.com/steam/apps/679570/header.jpg?t=1574186443",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Xenoblade Chronicles 3 Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/81AS-lQdqfL.jpg"
+      "nombre": "Xenoblade Chronicles 3 Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/81AS-lQdqfL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Hogwarts Legacy PS5",
-    "precio": 65,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518283_sd.jpg"
+      "nombre": "Hogwarts Legacy PS5",
+      "precio": 65,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6518/6518283_sd.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "The Legend of Zelda Breath of the Wild Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://target.scene7.com/is/image/Target/GUEST_e97f4ca6-9e20-4e34-ae64-1ac42d0d394c?wid=488&hei=488&fmt=pjpeg"
+      "nombre": "The Legend of Zelda Breath of the Wild Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://target.scene7.com/is/image/Target/GUEST_e97f4ca6-9e20-4e34-ae64-1ac42d0d394c?wid=488&hei=488&fmt=pjpeg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Animal Crossing New Horizons Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/81Sxdp0JBLL.jpg"
+      "nombre": "Animal Crossing New Horizons Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/81Sxdp0JBLL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Splatoon 3 Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://m.media-amazon.com/images/I/81Y3Mz9MeUL.jpg"
+      "nombre": "Splatoon 3 Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://m.media-amazon.com/images/I/81Y3Mz9MeUL.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Melty Blood Type Lumina",
-    "precio": 65,
-    "imagen1": "https://upload.wikimedia.org/wikipedia/en/f/fd/Melty_Blood_Type_Lumina_package_art.jpg"
+      "nombre": "Melty Blood Type Lumina",
+      "precio": 65,
+      "imagen1": "https://upload.wikimedia.org/wikipedia/en/f/fd/Melty_Blood_Type_Lumina_package_art.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Kirby's Return to Dream Land Deluxe Nintendo Switch",
-    "precio": 65,
-    "imagen1": "https://i.ytimg.com/vi/72ZJ67CvOa4/maxresdefault.jpg"
+      "nombre": "Kirby's Return to Dream Land Deluxe Nintendo Switch",
+      "precio": 65,
+      "imagen1": "https://i.ytimg.com/vi/72ZJ67CvOa4/maxresdefault.jpg",
+      "precioV": "$65.00"
   },
   {
-    "nombre": "Elden Ring",
-    "precio": 70,
-    "imagen1": "https://static.bandainamcoent.eu/high/elden-ring/elden-ring/00-page-setup/elden-ring-new-header-mobile.jpg"
+      "nombre": "Elden Ring",
+      "precio": 70,
+      "imagen1": "https://static.bandainamcoent.eu/high/elden-ring/elden-ring/00-page-setup/elden-ring-new-header-mobile.jpg",
+      "precioV": "$70.00"
   },
   {
-    "nombre": "Super Smash Bros Ultimate Nintendo Switch",
-    "precio": 70,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5723/5723319_sd.jpg"
+      "nombre": "Super Smash Bros Ultimate Nintendo Switch",
+      "precio": 70,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/5723/5723319_sd.jpg",
+      "precioV": "$70.00"
   },
   {
-    "nombre": "Gran Turismo 7 PS5",
-    "precio": 70,
-    "imagen1": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg"
+      "nombre": "Gran Turismo 7 PS5",
+      "precio": 70,
+      "imagen1": "https://m.media-amazon.com/images/I/81zKmfAPBmL.jpg",
+      "precioV": "$70.00"
   },
   {
-    "nombre": "Mortal Kombat 1",
-    "precio": 70,
-    "imagen1": "https://puntoderespawn.com/wp-content/uploads/2023/05/Mortal-Kombat-1-Key-Art.png"
+      "nombre": "Mortal Kombat 1",
+      "precio": 70,
+      "imagen1": "https://puntoderespawn.com/wp-content/uploads/2023/05/Mortal-Kombat-1-Key-Art.png",
+      "precioV": "$70.00"
   },
   {
-    "nombre": "F1 23",
-    "precio": 70,
-    "imagen1": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-23/common/featured-image/f123-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg"
+      "nombre": "F1 23",
+      "precio": 70,
+      "imagen1": "https://media.contentapi.ea.com/content/dam/ea/f1/f1-23/common/featured-image/f123-featured-image-16x9.jpg.adapt.crop16x9.1023w.jpg",
+      "precioV": "$70.00"
   },
   {
-    "nombre": "Cyberpunk 2077 Xbox Series",
-    "precio": 75,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6255/6255136_sd.jpg"
+      "nombre": "Cyberpunk 2077 Xbox Series",
+      "precio": 75,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6255/6255136_sd.jpg",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Diablo 4 Xbox Series",
-    "precio": 75,
-    "imagen1": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/05/diablo-4-analisis-hipertextual.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1"
+      "nombre": "Diablo 4 Xbox Series",
+      "precio": 75,
+      "imagen1": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/05/diablo-4-analisis-hipertextual.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Hogwarts Legacy Nintendo Switch",
-    "precio": 75,
-    "imagen1": "https://media.vandal.net/i/1200x630/3-2022/2022318931160_1.jpg"
+      "nombre": "Hogwarts Legacy Nintendo Switch",
+      "precio": 75,
+      "imagen1": "https://media.vandal.net/i/1200x630/3-2022/2022318931160_1.jpg",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Octopath Traveler 2 Nintendo Switch",
-    "precio": 75,
-    "imagen1": "https://media.gamestop.com/i/gamestop/20001184-6c0948f1?$pdp$"
+      "nombre": "Octopath Traveler 2 Nintendo Switch",
+      "precio": 75,
+      "imagen1": "https://media.gamestop.com/i/gamestop/20001184-6c0948f1?$pdp$",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Baldur's Gate 3",
-    "precio": 75,
-    "imagen1": "https://blog.playstation.com/tachyon/2023/02/f321c065cf3f405b6d0ac06fd5a550d6a95b5a5e-scaled.jpg?resize=1088%2C612&crop_strategy=smart"
+      "nombre": "Baldur's Gate 3",
+      "precio": 75,
+      "imagen1": "https://blog.playstation.com/tachyon/2023/02/f321c065cf3f405b6d0ac06fd5a550d6a95b5a5e-scaled.jpg?resize=1088%2C612&crop_strategy=smart",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Half-Life Alyx",
-    "precio": 75,
-    "imagen1": "https://cdn.cloudflare.steamstatic.com/half-life.com/images/alyx/screens/halflife_alyx_11.jpg"
+      "nombre": "Half-Life Alyx",
+      "precio": 75,
+      "imagen1": "https://cdn.cloudflare.steamstatic.com/half-life.com/images/alyx/screens/halflife_alyx_11.jpg",
+      "precioV": "$75.00"
   },
   {
-    "nombre": "Diablo 4",
-    "precio": 80,
-    "imagen1": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/05/diablo-4-analisis-hipertextual.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1"
+      "nombre": "Diablo 4",
+      "precio": 80,
+      "imagen1": "https://i0.wp.com/imgs.hipertextual.com/wp-content/uploads/2023/05/diablo-4-analisis-hipertextual.jpg?fit=2560%2C1440&quality=50&strip=all&ssl=1",
+      "precioV": "$80.00"
   },
   {
-    "nombre": "Starfield",
-    "precio": 80,
-    "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg?t=1681234040"
+      "nombre": "Starfield",
+      "precio": 80,
+      "imagen1": "https://cdn.akamai.steamstatic.com/steam/apps/1716740/capsule_616x353.jpg?t=1681234040",
+      "precioV": "$80.00"
   },
   {
-    "nombre": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
-    "precio": 85,
-    "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464080_sd.jpg"
+      "nombre": "The Legend of Zelda Tears of the Kingdom Nintendo Switch",
+      "precio": 85,
+      "imagen1": "https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6464/6464080_sd.jpg",
+      "precioV": "$85.00"
   },
   {
-    "nombre": "Call of Duty Modern Warfare 2 2022 Edition",
-    "precio": 85,
-    "imagen1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-003-PREORDER-NEW-TOUT.jpg"
+      "nombre": "Call of Duty Modern Warfare 2 2022 Edition",
+      "precio": 85,
+      "imagen1": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mwii/MWII-003-PREORDER-NEW-TOUT.jpg",
+      "precioV": "$85.00"
   }
 ]

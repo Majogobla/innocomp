@@ -1,4 +1,5 @@
 import keysData from '../json/keys.json';
+import computersData from '../json/computers.json';
 import laptopsData from '../json/laptops.json';
 import officeData from '../json/office.json';
 
@@ -70,6 +71,45 @@ export const laptosSearch = search =>
   let laptopsFiltered = [...laptopsData].filter(laptopState => laptopState.name.toLowerCase().includes(search));
 
   const result = {arrayPages: [], sliceArray: laptopsFiltered, numberPages: 1};
+
+  return result;
+}
+
+export const computersIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100, brandFilter = ['all'], subcategoryFilter = ['all']) =>
+{
+  let computersDataSorted = [];
+
+  if(category === 'price')
+  {
+    computersDataSorted = [...computersData].sort((a, b) => ascDesc ? a.price - b.price : b.price - a.price);
+  }
+  else
+  {
+    computersDataSorted = [...computersData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  if(!brandFilter.includes('all'))
+  {
+    computersDataSorted = [...computersDataSorted].filter(computerState => brandFilter.includes(computerState.brand.toLowerCase()));
+  }
+
+  if(!subcategoryFilter.includes('all'))
+  {
+    computersDataSorted = [...computersDataSorted].filter(computerState => subcategoryFilter.includes(computerState.subcategory.toLowerCase()));
+  }
+
+  computersDataSorted = [...computersDataSorted].filter(computerState => computerState.price >= minPrice & computerState.price <= maxPrice);
+
+  const result = productIndexer(computersDataSorted, quantity, actualPage);
+
+  return result;
+}
+
+export const computersSearch = search =>
+{
+  let computersFiltered = [...computersData].filter(computerState => computerState.name.toLowerCase().includes(search));
+
+  const result = {arrayPages: [], sliceArray: computersFiltered, numberPages: 1};
 
   return result;
 }
