@@ -74,7 +74,7 @@ export const laptosSearch = search =>
   return result;
 }
 
-export const officeIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100) =>
+export const officeIndexer = (quantity = 1, actualPage = 1, ascDesc = true, category = '', minPrice = 0, maxPrice = 100, brandFilter = ['all'], categoryFilter = ['all'], subcategoryFilter = ['all']) =>
 {
   let officeDataSorted = [];
 
@@ -85,6 +85,21 @@ export const officeIndexer = (quantity = 1, actualPage = 1, ascDesc = true, cate
   else
   {
     officeDataSorted = [...officeData].sort((a, b) => ascDesc ? a.name.localeCompare(b.name) : b.name.localeCompare(a.name));
+  }
+
+  if(!brandFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => brandFilter.includes(officeState.brand.toLowerCase()));
+  }
+
+  if(!categoryFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => categoryFilter.includes(officeState.category.toLowerCase()));
+  }
+
+  if(!subcategoryFilter.includes('all'))
+  {
+    officeDataSorted = [...officeDataSorted].filter(officeState => subcategoryFilter.includes(officeState.subcategory.toLowerCase()));
   }
 
   officeDataSorted = [...officeDataSorted].filter(officeState => officeState.price >= minPrice & officeState.price <= maxPrice);

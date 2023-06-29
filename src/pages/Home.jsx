@@ -55,7 +55,7 @@ function Home()
             </div>
             
             <div className="px-6 py-4 flex-1">
-              <div className="font-extralight text-2xl mb-2 text-gray-500">Consumibles</div>
+              <div className="font-extralight text-2xl mb-2 text-gray-500">Productos de Oficina</div>
 
               <p className="text-gray-700 text-xl font-extralight flex-1">
                 La mejor en opción en artículos de oficina para tu negocio, tintas, recargables, impresoras, scanners, protecciones, lo que desees lo encuentras con nosotros.
@@ -63,7 +63,7 @@ function Home()
             </div>
             
             <div className="px-6 pt-4 pb-2 flex justify-end">
-              <Link className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-lg font-extralight text-white mb-2" to='/consumibles'>Visitar</Link>
+              <Link className="w-full text-center md:w-auto bg-[#fb5910] rounded-xl px-10 py-1 text-lg font-extralight text-white mb-2" to='/office'>Visitar</Link>
             </div>
           </div>
 

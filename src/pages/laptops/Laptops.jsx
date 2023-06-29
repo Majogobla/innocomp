@@ -1,6 +1,6 @@
 import { useEffect, useState } from 'react';
 import { laptopsIndexer, laptosSearch } from '../../helpers';
-import Laptop from './Laptop';
+import LaptopCard from './LaptopCard';
 import QuantityFilter from '../../components/Filter/QuantityFilter';
 import OrderFilter from '../../components/Filter/OrderFilter';
 import MinMaxPriceFilter from '../../components/Filter/MinMaxPriceFilter';
@@ -119,7 +119,7 @@ function Laptops()
 
                   <MinMaxPriceFilter data={{minPrice, handleSetMinPrice, maxPrice, handleSetMaxPrice, max}}/>
 
-                  <CheckFilter data={{list: ['hp', 'dell', 'acer', 'lenovo', 'apple'], brandFilter, setBrandFilter}}/>
+                  <CheckFilter data={{name: 'Marca', list: ['hp', 'dell', 'acer', 'lenovo', 'apple'], filter: brandFilter, setFilter: setBrandFilter}}/>
                 </div>
               </div>
 
@@ -136,7 +136,7 @@ function Laptops()
                   {
                     laptops.map((laptop, index) =>
                     (
-                      <Laptop key={index} producto={laptop}/>
+                      <LaptopCard key={index} producto={laptop}/>
                     ))
                   }
                 </div>
@@ -158,7 +158,7 @@ function Laptops()
                 {
                   laptops.map((laptop, index) =>
                   (
-                    <Laptop key={index} producto={laptop}/>
+                    <LaptopCard key={index} producto={laptop}/>
                   ))
                 }
               </div>

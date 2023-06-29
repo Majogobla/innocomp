@@ -1,7 +1,7 @@
 import { useEffect, useState } from 'react';
 import { formatPrice } from '../../helpers';
 
-function Laptop({producto})
+function LaptopCard({producto})
 {
   const {name, price, description, brand, image1} = producto;
   const [ram, setRam] = useState('');
@@ -38,8 +38,8 @@ function Laptop({producto})
 
   return (
     <div className="w-full overflow-hidden shadow-xl bg-white mx-auto origin-center hover:rotate-3 hover:z-auto transition-transform flex flex-col">
-      <div className='aspect-square flex items-center justify-center'>
-        <img className="object-contain" src={image1} alt={`${name} image`}/>
+      <div className='aspect-square flex items-center justify-center overflow-hidden'>
+        <img className="object-contain h-full" src={image1} alt={`${name} image`}/>
       </div>
 
       <div className='w-full px-4 pb-2 flex flex-col flex-1 justify-between'>
@@ -49,7 +49,6 @@ function Laptop({producto})
           <p className='text-[#fb5910] font-bold text-2xl'>Procesador:<span className='text-black font-extralight ml-2'>{processor}</span></p>
           <p className='text-[#fb5910] font-bold text-2xl'>Garantía:<span className='text-black font-extralight ml-2'>{warranty}</span></p>
           <p className='text-[#fb5910] font-bold text-2xl'>Storage:<span className='text-black font-extralight ml-2'>{storage + ' ' + storageType}</span></p>
-
           <p className='text-[#fb5910] font-bold text-2xl'>Marca:<span className='text-black font-extralight ml-2'>{brand}</span></p>
           <p className='text-[#fb5910] font-bold text-2xl'>RAM:<span className='text-black font-extralight ml-2'>{ram}</span></p>
           <p className='text-[#fb5910] font-bold text-2xl'>SO:<span className='text-black font-extralight ml-2'>{windows}</span></p>
@@ -66,4 +65,4 @@ function Laptop({producto})
   )
 };
 
-export default Laptop;
+export default LaptopCard;
